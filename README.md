@@ -31,7 +31,9 @@ Model Training
 
 Our model was trained on 19 different resumés.  This amount was cut short due to time constraints and the need to retrain our data multiple times while working through our code.  For our model, we used SpaCy and an implementation of NER from DataTurks, as seen in train.py.  For the model, we used 10 labels into which to sort and filter resumé items: designation, graduation year, school, skills, name, email address, location, companies worked at, degree, and years of experience.
 
-Acccuracy Statistics
+Acccuracy Statistics Screenshot of model accuracy
 
-Screenshot of model accuracy
+These photos can be found in the folder with the same name.
+
+
 
