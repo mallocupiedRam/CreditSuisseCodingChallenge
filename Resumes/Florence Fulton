@@ -1,0 +1,394 @@
+Florence Fulton                                
+
+                    Mobile: +1 1936574369
+
+
+
+
+
+Experience Summary
+
+
+
+7 Years of professional experience in Design, development and supporting software applications in Data warehousing using Ab Initio and Informatica as ETL.
+
+Designed and developed automation framework prototype for Ab Initio code deployment.
+
+Good analytical skills in understanding the data, design, mapping documents and operate manuals.
+
+Experience in executing complete SDLC (Software Development Life Cycle), Planning, Prioritize, Estimation ,Implementation and change management
+
+Experience in Oracle, UNIX, Windows NT and Autosys.
+
+Technical Skills:-
+
+
+
+ETL Tools
+
+Ab Initio (GDE V 2.15 and 3.0),Informatica and SAP BODS
+
+Reporting Tools
+
+QlikView.
+
+Databases
+
+Oracle.
+
+Operating systems 
+
+Windows, Linux
+
+
+Other Tools
+
+Autosys, Service Now, SVN ,JIRA.
+
+Business Domain Knowledge
+
+Banking, Retail
+
+
+
+
+
+Educational Qualifications:-
+
+
+
+Master in Computer Application from JNTU, Hyderabad, Andhra Pradesh.
+
+
+
+Work Experience:-
+
+
+
+ I.T. Analyst with Tata Consultancy Services, Bangalore from Oct 2015 to Dec 2016
+
+ Software Engineer with Accenture Services Ltd, Bangalore from Sep 2014 to Oct 2015.
+
+Software Engineer with HCL Technologies Ltd, Bangalore from July 2010 to Sep 2014.
+
+System Engineer with IBM Info services, Bangalore from May 2009 to June 2010.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Project Experience:-
+
+
+
+Project 1:  
+
+
+
+         Project Name                  : Flash Pro DW
+
+         Client        : HP Inc, US.
+
+         Role        : ETL analyst 
+
+         Duration                        : June 2016  Dec 2016
+
+         Environment                   : Informatica, Oracle, QlikView and Linux
+
+Description:- 
+
+Flash Pro DW is the Data warehouse that receive, standardize, enrich, store, distribute, and aggregate for Reporting of Partners data like Partners Shipments, Orders, Backlog, Sell-out, Sell to and Inventory in the EMEA region.
+
+Flash Pro is one of HPs key marketing advantages, it is needed to:
+
+a)Bring together all available Partner information to make it accessible to European Field and marketing centers gives the visibility on Business trends at Aggregated and Detailed levels.
+
+b)  Provide easy focus on relevant subsets of the Partners population so as to allow:
+
+Creation and tracking of Marketing Programs or Promotions
+
+Reference for other Partner-Oriented Applications 
+
+
+
+Role & Contribution:
+
+ 
+
+Proactively monitor the overall system from the data load perspective and take appropriate actions to improve the load process.
+
+Providing detailed level analysis with reason for the failure to respective team to take proper action.
+
+Analyze, interpret all complex data for all target systems then provide resolutions to all data issues and coordinate with data analyst to validate all requirements.
+
+Collect the data points on daily basis for the failures then understand the failure patterns then present to client in the status calls which are potential SLA threats.
+
+Support the ad-hoc requests to create the data files as per the specifications given by the stakeholders.
+
+Create change request for code deployment for Break fix/enhancements from lower to higher environments.
+
+Update the run books and keep up to date so as to avoid conflict.
+
+Addressing high priority tickets to ensure that there are minimal impact on the production system.
+
+Create and present RCA documents, Issues tracker, status PPTs.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Project 2:  
+
+
+
+         Project Name                  : Credit Data Mart
+
+         Client        : Jpmchase, US.
+
+         Role        : ETL Developer
+
+         Duration                        : Feb 2016  June 2016
+
+         Environment                   : Abinitio 1.13 and Linux
+
+
+
+Role & Contribution:-
+
+
+
+Developed and Implemented extraction, transformation and loading the data from the legacy systems using Ab Initio
+
+Metadata mapping from legacy source system to target database fields and involved in creating Ab Initio DMLs and written complex XFRs for implementing the business logic transformation.
+
+Extensively Used Transform Components Aggregator, Match sorted ,Join, Denormalize sorted, Reformat, Rollup and Scan Components
+
+Involved in Unix Korn shell wrapper scripts to accept parameters and scheduled the processes using Crontab, Job Scheduler, Database Load Interface, and Denormalization using Ab Initio.
+
+Developed Ab Initio scripts for data conditioning, transformation, validation and loading.
+
+Gathering the knowledge of existing operational sources for future enhancements and performance optimization of graphs.
+
+Involved in writing wrapper scripts to run the graphs, to load into Data Warehouse and to verify the counts while loading.
+
+Used Parallelism techniques to partition and process large data simultaneously
+
+Created Auto Sys job stream to schedule jobs by creating box jobs and jil templates.
+
+Developed shell scripts to automate file manipulation and data loading.
+
+Replicate operational table into staging tables, transform and load data into warehouse tables using Ab Initio GDE.
+
+
+
+
+
+Project 3:
+
+
+
+         Project Name                  : Automated Transactions Screening
+
+         Client        : NAGE, UK.
+
+         Role        : ETL Developer
+
+         Duration                        : Sept 2014  Oct 2015
+
+         Environment                   : SAP BODS, Oracle 10g and Linux
+
+
+
+Description:-
+
+                
+
+                National Australian Group Europe (NAGE) is the European retailing arm of National Australian Bank Group (NAB), providing financial services to over 3.4 million customers in UK and Ireland.
+
+Accenture provides application development and management servicesfor a number of the banks key enterprise and customer applications. EDS (Enterprise Data Services) is enterprise data warehouse application which is one of the applications supported by Accenture. The transactional data is collected from different source applications and stored in Oracle data warehouse which is then queried for SAS reporting and Business Objects reporting.
+
+
+
+
+
+Role & Contribution:- 
+
+Created mappings using Designer and designed workflows using Workflows to build DW as per business rules.
+
+Used different transforms such asQuery,Case,Table Comparison,Key Generation,Merge,Date Generation, Pivottransforms and functions likeifthenelse(),substr,lookup,lookup_extetc.
+
+Migratedthe dataflow to the production environment forGo Liveof the Web Intelligence business Reports which used the underlying ETL.
+
+Creating TWS schedules for the processes
+
+Design walk through with the internal and external stake holders of the project.
+
+Writing the test cases for unit and integration testing
+
+Expertise in unit test, integration test of SAP BODS components
+
+Perform data validation tasks after data load and identify the data mismatches
+
+Analyzing the problems and providing optimum solutions to customers.
+
+Responsible for working with the Data fixes team and supporting each other in all tasks
+
+
+
+Project 4:
+
+
+
+         Project Name              : VOLCKER REPORTS
+
+         Client           : CITI Bank, NJ, USA
+
+         Role           : ETL Developer
+
+         Duration                          : Dec 2013  Aug 2014
+
+         Technologies                     : Abinitio, Linux, Oracle, QlikView and Autosys.
+
+
+
+Description:-
+
+               This project is to assist banking entities in identifying permissible and impermissible proprietary trading activities The Volcker Rule prohibits proprietary trading by banking entitiesin effect, reintroducing to the financial markets a substantial portion of the Glass-Steagall Acts static divide between banks and securities firms. Prohibits a banking entity from "engaging in proprietary trading or acquiring or retaining any equity, partnership, or other ownership interest in or sponsoring a hedge fund or private equity fund," subject to certain exceptions.
+
+
+
+Responsibilities:
+
+ 
+
+Mapping Document Creation
+
+Creation of Impact analysis. 
+
+DML creation.
+
+Developed wrapper scripts for the application
+
+Involved in Unit testing, SIT and UAT
+
+Preparation of Test Cases for UNIT and SIT.
+
+Giving support to the application after the Implementation in warranty period
+
+Quality works for Audit.
+
+
+
+Project 5:
+
+
+
+         Project Name             : REGULATORY ANALYTICS.
+
+         Client          : Citi Bank, NJ, USA.
+
+         Role          : ETL Developer
+
+         Duration                         : Jun 2012  Dec 2013
+
+         Environment                     : AbInitio, Linux, Oracle, QlikView and Autosys. 
+
+
+
+Description:
+
+
+
+This project is a collection of various regions daily/monthly data feeds such as Mars, VaR, EQRMS, CDS and GSM.  The primary Objective of the project is to provide the data for different products of the trade values to analyze risk and profit/loss for each product and take decisions to improve the products profit.
+
+
+
+Responsibilities:
+
+
+
+Enhancement in already existing graph for the given requirement.
+
+Creation of CR for code promotion.
+
+Development of Abinitio graphs for new release as per design document
+
+Involved in creation of all relevant quality related document
+
+Providing guidance to testing and application support team.
+
+
+
+Project 6:
+
+
+
+         Project Name             : CITI MARKETS ANALYTICS.
+
+         Client          : Citi Bank, NJ, USA.
+
+         Role          : ETL Developer
+
+         Duration                         : July 2010  June 2012
+
+         Environment                     : Abinitio, Linux, Oracle, QlikView and Autosys. 
+
+
+
+Description:
+
+
+
+ CMA (CITI Markets Analytics) is collection of various data warehouse feeds of balance sheets, BASEL, CVA and Headcount, etc., the objective is to give Management a tool for executives to assess performance across all aspects of the business, Holistic view of products, Business Scorecard and detailed drill down capabilities to allow for a complete understanding of delta and variance reporting.
+
+Standardized dashboard views allows management to assess all businesses using the same metrics, reports, methodology, look and feel Enriched dashboards allows each business to add metrics and analytics specific to their business Export abilities to allow information to be shared with senior management as well as non-QlikView users
+
+
+
+Responsibilities:
+
+Interacting with the onsite tech team to understanding the requirements
+
+Unit Testing and analyzing the code for the Graphs.
+
+Involved in writing the Unit Test Cases.
+
+Debugging and rectifying the problems in case of data discrepancy.
+
+Involving in tag promotion, creating RFC and follow-up with all involved stake holders.
+
+Implementing, Scheduling  and monitoring jobs
+
+Analyzing root cause for failures and fixing it 
+
+Coordinating with other teams to fix the issues.
+
+ProvidedKnowledge Transferto the other team members and created extensive documentation on the support and implementation, daily loads and process flow of the Graphs
+
+
+
+
+
+
+
+Page 5

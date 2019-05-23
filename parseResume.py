@@ -72,7 +72,6 @@ def createParsed(filename):
                 final += char
     global_text = final
 
-    f=open(global_file+".txt","w", encoding="utf-8")
     doc_to_test=nlp1(global_text)
     doc_to_test2 = nlp2(global_text)
     d={}
@@ -90,17 +89,7 @@ def createParsed(filename):
                 add = False
         if (add or d[ent.label_] == []): d[ent.label_].append(ent.text)
     
-    for i in set(d.keys()):
-    
-        f.write("\n\n")
-        f.write(i +":"+"\n")
-        for j in set(d[i]):
-            f.write(j.replace('\n','')+"\n")
     return (d)
 
-def generateText():
-    for filename in os.listdir("Resumes"):
-        if (filename != ".DS_STORE"):
-            createText("Resumes/" + filename)
             
             
