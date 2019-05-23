@@ -1,0 +1,161 @@
+Jesus Kreisher
+Email: Kreisher.Jesus@gmail.comMobile No. : +91-7928062710
+
+
+SYNOPSIS
+
+
+8 years of professional IT experience in the field of Application development and maintenance in Investment banking, Telecom and GRC domain.
+Lead a team of size 8 where my responsibilities were to mange offshore and onsite shifts, ensure SLAs and OLAs of all the tickets are met. MTTR for the tickets are less,etc.
+Worked in client location (Singapore) for 1 year and acted as a single point of contact for all the Market Risk applications end users and also handled client escalations smoothly.  Played CSM-1 role during APAC hours.
+Hands on experience on analysis and providing solutions for Market Risk applications and banking products like GPC, EDGE, RPL, MARKET DATA and good insights of Risk Management in Investment Banking
+Coordinated all DR activities (Planning, Review and Participation) for all Market Risk applications and ensured all applications compliant as per the DR policy defined.
+Prepared weekly and monthly reports to analyze the trend of long pending / repetitive issues and presented the same to business / Dev team for prioritizing production fix for the same. Created corresponding problem tickets and tracked towards their closure.
+Developed monitoring scripts to automate manual monitoring using core java and UNIX.
+Given code level fix in JavaScript and Pl/SQL.
+Providing production support to Market risk applications and handling of Production Issues for global customers.
+Expertise in analyzing and resolving production issues.
+Good exposure to incident management and problem management.
+Sound knowledge of PL/SQL, Java, Big Data Hadoop, HDFS,Yarn,Pig,Hive,SCALA ,UNIX/Linux, SQL, shell scripting.
+Good understanding of Infrastructure &UNIX Application Trouble-Shooting & Tuning.
+Capability in learning new technologies quickly and adapt to a new environment.
+Certified Big Data Hadoop Developer.
+Proactive, dedicated and enjoy learning new Technologies and Tools.
+Excellent customer service skills with background in phone and email etiquette.
+Ability to work multiple tasks simultaneously.
+Good Exposure in all the Phases of SDLC.
+Team player with good communication and inter personal skills.
+
+
+
+Current Position
+
+
+Lead Consultant at Virtusa Consulting Services, Bangalore, India.
+
+
+
+
+
+
+
+
+
+
+
+
+Educational Qualification
+
+
+
+Technical Knowledge
+
+
+
+Job Experience
+
+
+
+
+
+Brief description of the project:
+
+GPC is Deutsche Banks strategic Market Risk collection system.  It is responsible for collecting and reporting data in various ways.  GPC collects, aggregates, maps and stores incoming data.  Once data is in the GPC core, data is used to report market risk figures and run VaR calculations (in conjunction with Edge  the calculation itself is outside GPC.)
+
+Responsible for:
+
+Extensive understanding of Incident Management which is responsible for time-critical user Service/ Infrastructure restoration, technical troubleshooting within complex IT systems environment.
+Good experience in Problem Management in order to resolve the issues permanently to make sure effective service to the clients and to avoid recurring incidents.
+Knowledge of Oracle/SQL/database performance tuning which helped to optimize the daily processes running in database without relying on development team, which saved time and Database load.
+Debugging and resolving production issues raised by end-users within SLA and 24/7 availability.
+Involvement in Database administration activities.
+Explored the ways of automation of repetitive manual tasks done by team and implemented the same which reduced manual effort, number of tickets.
+Frequent participation in Disaster Recovery, release/change activities and provided advises to Development team during release planning and testing in SIT, UAT (Non-production environment).
+Working experience in critical investment banking projects gave more visibility and exposure to daily support and immense knowledge about Production Support and Development.
+Ensured proper training planned and provided to team as well as users to improve functional knowledge. Mentored new joiners and gave shadowing to make sure enough capability to handle the shift and work under pressure.
+Prepared FAQ documents, run books and knowledge articles to be handy to support engineers in resolving the issues to improve efficiency in service delivery.
+Strong ability to communicate clearly and appropriately with executive and management level business partners, non-technical end users, technical subject matter experts and vendors.
+
+
+
+Brief description of the project
+
+Give L3 support on the products of MetriStream Inc. like ISM,Audit,Risk.Give Code level fix on JavaScript and SQL-PL/SQL.
+
+Responsible for:
+
+Understanding the Application and Solve All priority tickets (SEV1, SEV2, and SEV3,SEV4).
+Giving Code level fix in JavaScript and SQL-PL/SQL.
+Mentor new members of Team.
+
+
+
+
+
+
+Brief description of the project:
+
+The Control Panel is essentially the glue between a provisioning database, an SNMP data collector and a Reporting Engine.  At its lowest level, it imports and exports information as required to drive the respective systems.
+
+The Control Panel also incorporates a web interface that provides authorized users a better view into the systems it touches.
+Project involves different teams from different vendors across globe in different time zones.
+
+Responsible for:
+
+Understanding the Application and Solve All priority tickets (SEV1, SEV2, and SEV3).
+Sanity checks before the start of business hours and make sure the availability of the application.
+Interact with upstream and down streams to make sure the application is up and running and the flow of data is appropriate.
+
+
+
+Brief description of the project:
+
+The Prevention Support Platform (PSP) aims at improving the quality and effectiveness of preventive maintenance activities on Bell Canadas Copper and Fibre access networks. This Application also offers a tools panel to manage the availability and reliability of the Access Network proactively.
+
+Responsible for:
+
+Understanding the Application and Solve All priority tickets (SEV1, SEV2, and SEV3).
+Sanity checks before the start of business hours and make sure the availability of the application.
+Interact with upstream and down streams to make sure the application is up and running and the flow of data is appropriate.
+Developed Monitoring script to remove manual monitoring of PSP Application.
+Developed Monitoring script to remove manual monitoring of MPDO Application which produced operational data for PSP Application.
+
+
+
+
+
+Brief description of the project:
+ 
+In order to access the xDSL client port, multiple groups of users require access to the appropriate Element Management Systems to perform their activities: xEMS in the case of Nortel 1Meg Modem, AMS in the case of Alcatel DSLAM, Navis AnyMedia (NAM) for Lucent AnyMedia Access System (AMAS), Navis Access DSL (NAD) in the case of Lucent OPI DSLAM and Access Provisioning Center (APC) in the case of Alcatel 7330.
+In order to simplify the testing and trouble diagnosis process of DSL high speed services, and to provide support for larger user communities, the Lantern system provides the Bell Canada with a "Thin Client" Web Based interface to the Alcatel AMS, Lucent NAM, Lucent NAD, Alcatel APC as well as to Nortels xEMS EMS.
+It optimizes the user session capacity, thus off-loading EMS servers and reserving full EMS functionality for specific groups such as the CSR, NMC, BFCO, and CLRB for more in-depth testing, monitoring and provisioning activities. 
+
+Lantern receives a SODB extract file containing activations for all technologies (Nortel, Alcatel 1000/7300, NIT, NAD and Alcatel 7330) with the associated order identifier. Lantern interfaces with the Order Repository for any missing activation information based on the order identifier. Lantern implements rules to interpret the SODB activation records activity code of Activate, Deactivate and Undo operations.
+
+Responsible for:
+
+Understanding the Application and Solve All priority tickets (SEV1, SEV2, and SEV3).
+Sanity checks before the start of business hours and make sure the availability of the application.
+Interact with upstream and down streams to make sure the application is up and running and the flow of data is appropriate.
+
+
+
+
+Extracurricular activities/interests
+
+
+Was a part of the anti-ragging committee in college.
+Was active member during all the cultural college fests.
+Active participation in all the extra-curricular activities organized in the company.
+Played corporate cricket and football tournaments for the company.
+
+
+Personal Performa
+
+
+Fathers Name:  Uday Shankar Jha.
+Mothers Name: Shanti Jha
+Date of Birth:     13th August 1988
+Gender:                  Male
+Marital Status:      Single
+Nationality:            Indian

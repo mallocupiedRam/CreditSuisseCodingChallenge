@@ -1,0 +1,209 @@
+Key Skills
+
+Profile Summary
+
+
+
+
+A competent professional with over 12+ years of rich experience in the entire gamut of IT Services, Software Configuration Management, SIEBEL Administration and Testing
+Comprehensive experience in maintaining high application availability; planning and coordinating on production release; undertaking daily health checks which includes regular checking status of servers & components; checking status of JOBs/RCRs/ tasks, server resource monitoring(CPU/Memory/Disk space)
+Significant experience in Software Configuration, Build & Release, Environment and Change Management and DevOps and SDLC Process; gained exposure in Service Transition
+Skilled in supportingtest and development environmentswhich includes setting up tools/mobile client for developers, extracting local databases for developers, migrating SRF/repository from development to Test environment and so on
+Proficiency in Defect Tracking Tools HP Quality Center, PVCS  Version management, make, Maven, Tibco BW Admin console, Weblogic Admin console, Remedy, Siebel Tools, ETL(informatica) (designer, client, workflow manager) tool, BI publisher; possess sound technicality in UNIX (HP-UX), Siebel Administration Team-based management style coupled with the zeal to drive visions into reality
+
+Education
+
+2006MCA from University of Rajasthan, Jaipur
+2000PGDCA from University of Rajasthan, Jaipur
+
+Career Timeline
+
+
+
+Soft Skills
+
+
+
+
+
+Notable Accomplishments across the Career
+Recipient of Cookies Award in Compucom for dedication to work at Compucom Software Ltd.
+Played important roles in project initiation activities, transitioning of the project from client and ensuring proper Knowledge Transfer to the offshore team.
+Handled effectively teams of 6 Resources in VSSI
+Worked for different geographies (Europe); ability to communicate effectively with peers and stakeholders in geographically dispersed locations. Worked as Onsite Coordinator
+Working with VSSI Transition and Recruitment Teams to create JDs for upcoming projects in configuration, build & release and environment management areas
+Responsible for challenging migration of complete SCM work from multiple vendors in Spain (Vodafone, Accenture and IBM) to VSSI, India. Complete Migration happened during 6 Months. Established 45 FTE team in India, including 6 member team of SIEBEL.
+Working as SPOC for Continuous Improvement Six-Sigma Projects for the service created and reviewed Standard Operating Procedure documents for various process and BAU activities
+Worked on 1 SIX-SIGMS Continuous Improvement projects during FY 2014-15, saving 3 FTE, ,Completed Six Sigma  Yellow Belt from Vodafone Shared Services.
+Developed code using Maven and Shell scripts, experience in build and compilation of C/C++, Java code and siebel artefacts.
+Undertook administration and configuration of:
+Source code repository PVCS and code migration tool ALMS 
+UNIX machines for all applications
+Tuxedo Middleware Servers and Services.
+Compilation and Deployment of source code of Tibco and Weblogic servers and Administration of these servers.
+
+Work Experience
+Apr13  PresentVodafone India Services Ltd., Pune as Siebel Admin/ Deputy Manager (Project: Vodafone NewCo UK )
+Apr13  Mar16Vodafone India Services Ltd., Pune as Siebel Admin/ Asst. Manager (Project: VF-AO-TSSC-ES-CMS)
+May11  Mar13IBM India Ltd., Noida as Siebel Administrator / Sr. Software Engineer(Project: VF-ES-CM)
+Key Result Areas:
+Siebel Operations:
+Maintaining 30+ Siebel environment;  engaging in server health monitoring and troubleshooting
+Undertaking activities related to performance tuning / sizing, shell scripting, analysis on capacity /issues/ sizing and so on, installation and configurations, base lining, build and deployments
+Analyzing Siebel core crashes; server and repository related issues, database initialization, smart script issues 
+Creating users with responsibilities on application and DB level; Upgrading Siebel 8.1.1.8 to 8.1.1.15
+Engaging in health checks of ENV, RCR issues, SR automation issues; workflow components (escl_req table count/SRM_REQUEST table count), JMSreceiver troubleshooting, Srvrtable Cleanup and task history tables
+Installing and patching of servers; performing daily health checks which include regularly checking status of servers & components checking status of jobs (CPU/Memory/disk space)
+Executing Sadmin password change; creating DB user & assigning SSE role to users
+Migrating repository & SRF on daily basis one environment to others; Importing SIF file & do Apply/Activate on all environment
+Working on different monitoring tools like Topaz, HP monitor & Site scope; installing Siebel tools 
+Working with VERITAS clustered domain
+Creating new object manager as per request & performing Application level troubleshooting, Performance issue & DR testing
+
+Management:
+Tracking & reporting of project benefits & progress to senior management & stakeholders. 
+Driving Continuous Service Improvement and adoption of best practices to improve project performance. 
+Developing, motivating and guiding teams and individuals towards successful outcomes and attainment of all set business objectives; 
+Managing Shifts, Leaves, and Support required on weekends and non-office hours maintaining high availability of the team
+
+Sep10  May11Patni Computers Systems Ltd., Mumbai as Sr. Software Engineer (Project: Maximis Investment Accounting System)
+Key Result Areas:
+Recorded trade and income activity; kept inventory of securities and cash held for business segments and parties for which manulife manages business
+Delivered forecasting on trade settlement, cash income and maturities; maintained reference data like interest rate changes, exchange rates, market prices, NAIC prices and ratings, dividends, payment schedules, mortgage factors
+Created data and reports required for NAIC and other regulatory reporting
+Undertook software design and development, design of software test routines, design verification, functional testing and peer code reviews
+Designed, developed, coded, tested and debugged system software; reviewed code and design; validated new product designs; supported Quality Assurance (QA) and optimised Input/ Output (I/O) performance; provided post-production support
+Maintained reference data like interest rate changes, exchange rates, market prices, NAIC prices and ratings, dividends, payment schedules, mortgage factors, etc.
+
+Jun06  Sep10Compucom Software Ltd., Jaipur as Software Engineer (Project: Previsor Network Manager (PNM))
+Certification
+ITIL V3 certification
+Six Sigma Yellow Belt
+Sun-Solaris(S1) Administration
+Trainings
+Siebel 8.0 Essentials
+WebLogic Administration
+Tuxedo Administration
+IT Skills
+CRM Package: Siebel 8.1.1.8
+Middleware: Oracle Fusion Middleware 11G, 
+Operating System: Solaris, Red Hat Linux, OEL
+Integration Methods: Web services, FTP, HTTP, JMS, AIA
+Siebel 7.8, 8.0,8.1
+Siebel Tools 7.8, Siebel Web Client, Actuate
+Oracle 9i, 12c
+Windows , UNIX
+Unix Shell Scripting
+Informatica tool  Power Center 8.6.1 (designer, client, workflow and  repository manager)
+BMC Remedy  Incident Management & Change Management (used for day-to-day Tickets)
+Operating Systems: UNIX, LINUX, Windows
+Project Domains: Software Configuration Management, Build & Release, Environment Management, DevOps
+SCM Tools: PVCS,Clearcase, CVS, ALMS (Application Lifecycle Management system) 
+Database: Oracle, Sybase, iSQL, SQLPLUS
+Build Tools: MAVEN, ANT, MAKE
+Middleware: TIBCO, TUXEDO, WebLogic
+Packages: SIEBEL CRM
+Ticketing Tools: BMC Remedy
+Scripting Knowledge: Shell, Perl
+Computer Languages: C, C++
+Other Applications: Client tools for handling requests from other teams for Code Migration(ALMS  Application Lifecycle Management system) and Environment Management (OT  OficinaTechnicia)
+
+
+
+
+
+
+
+
+
+
+Please refer the Annexure for Project Details
+
+Annexure 
+Projects Handled
+Vodafone India Services Ltd., Pune
+Project name:NewCo
+Client:Vodafone UK (Onsite Newbury UK)
+Role:Siebel Administrator / Assistant Manager (Lead Application Operations)
+Tools:Siebel Tools 8.0, Siebel Web Client,
+Back End:Oracle 9i, 10g,
+Platform:Windows, UNIX, Linux
+Project Description:  Vodafone Limited provides mobile and landline telecommunication solutions for individuals and businesses in the United Kingdom. It offers personal and business mobile phones, Internet solutions, and accessories; and business applications, such as application service, business intelligence, customer relationship management, data collection, field service management, mobile workforce management, fixed data networks, and IP telephony. The company also provides professional services, including business case development, consulting and design, implementation, maintenance, project management, and managed services; and backup and recovery, machine to machine, contact center, unified communication, and secure remote access services. It serves various industries, such as construction, engineering and property, energy and utilities, manufacturing, media and broadcast, professional services, retail and leisure, transport, travel and logistics, government, emergency services, healthcare, and public sector. The company was founded in 1985 and is based in Newbury, United Kingdom.
+
+Acts as the single point of contact and escalation for all client issues Related to Siebel CRMbe the Incident Management lead of the business for our clients during European & Indian business hours. 
+Excellent Incident resolution skills across different teams like BRM, FMW, TIL, OSM, Surepay etc.
+Experienced in managing both low and high-severity incidents across the entire incident life-cycle with ITIL standards in accordance with availability, resolution and restoration SLAs
+Interaction with business, client IT and external vendors for various business requirements and technical solutions.  
+Reviewed functional requirements and technical design documents to validate the requirements given by business has been handled properly.  
+Visited the call centers to understand the pain points and accordingly work with delivery and oracle to ensure smooth business continuity,
+Analyzing and leading the Production incidents across the system according to ITIL standards and defined SLAs.
+Analyze and review the Performance test strategy, design and scope to cover all the major issues which can affect the Production system.
+Handling performance issue:
+Database performance: Modify DB parameters to optimize the performance. Optimizing SQL statements etc.
+Siebel server Performance: Siebel server parameters adjustments, Siebel components allocations, Log file Analysis, Siebel Crash file Analysis etc.
+Monitoring the Siebel server tasks, components and setting the event log to find the Siebel environment issue in PAT execution phase.
+Investigate issues associated with Siebel applications to determine the root cause of the issues and provide mitigation plans and permanent solutions for issues related to Siebel environments. 
+Participate in meetings to resolve complex problems associated with Siebel environments and/or Siebel application 
+Progressively transfer knowledge to the Siebel Application Support Teams and Other testing teams to bridge the information gap between different streams. 
+Driving the meetings / conference calls / war rooms with Client and Technical architects.
+Analyzing performance defects and working with Oracle support to get fast and permanent resolution of the issues. 
+
+
+
+
+
+
+
+
+Vodafone India Services Ltd., Pune
+Project name:VF-AO-TSSC-ES-CMS
+Client:Vodafone Spain
+Role:Siebel Administrator / Assistant Manager (Lead Application Operations)
+Tools:Siebel Tools 8.0, Siebel Web Client,
+Back End:Oracle 9i, 10g,
+Platform:Windows, UNIX, Linux
+Project Description: This project is related to activities in and around Configuration and Release management which includes following activities on high level: Configuration Management, Environment Management, Middleware Administration, Monitoring and Help Desk. 
+Under CM umbrella, we have complex set-up of applications related to Mobile, Fixed Line and Online Applications. Configuration Management Service has following Sub-Teams:
+Configuration & Deployment Management
+Environment Management
+Help desk and Monitoring
+SIEBEL CRM Administration and Deployments of various Siebel artifacts.
+Administration and maintenance of UNIX/LINUX machines for SIEBEL Environments.
+Build, compiled and deployed C/C++, Java and other code on UNIX and Windows servers for various applications
+Plan, Manage and Implement Production and Non Production Releases
+Involved in code promotions and deployments of code across various non-production locked down environments using Version control tools like PVCS, CVS.
+Involved in setting up code repositories for new projects by working closely with the Administrators and others involved teams
+
+IBM India Ltd., Noida
+Project name:VF-ES-CM
+Client:Vodafone Spain
+Role: Siebel Administrator/Sr. Software Engineer
+Tools:Siebel Tools 7.8, Siebel Web Client, 
+Back End: Oracle 9i, 10g
+Platform:Windows, UNIX, LINUX
+
+Coordination with Local Delivery (LD - Spain Team) and Global Delivery (GD - India Team) teams. 
+Conducting Software Configuration Audits.
+Worked on 10 major Production Releases. All were deployed smoothly without any issue.
+Setup the new added application in services and make the SOP documents.
+
+Patni Computers Systems Ltd., Mumbai
+Project name:Maximis Investment Accounting System
+Client:Canada Investment bank
+Role:Siebel Administrator /Software Configuration Manager
+Tools:Siebel Tools 7.8, Siebel Web Client, Actuate, Microsoft VSS.
+Back End:Oracle 9i, 10g
+Platform:Windows,, UNIX
+Compucom Software Ltd., Jaipur as Software Engineer
+Project name:Previsor Network Manager (PNM)
+Client:Teckmark Global 
+Role:Unix Administrator/Software Engineer
+Operating Systems:UNIX, LINUX, Windows
+Testing:Manual Testing on UNIX and Windows platforms
+Bug Tracking Tool:Excel and Quality Center.
+Databases:Informix, MySQL, and Oracle
+Scripts:UNIX Shell scripts and Perl
+Programming:Perl CGI, VbScript, HTML and Core Java.
+Web Server:Apache
+Domain Knowledge:Telecom, Networking, UNIX System Administration, Investment and Accounting, software configuration management
+Scheduling Tool:Control-M

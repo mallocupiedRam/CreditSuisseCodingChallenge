@@ -1,0 +1,430 @@
+Dorthy Urda                                                   
+
+
+
+Feb  2019
+
+Feb  2019                  Mobile -- +91 - 7738684775
+
+Professional Summary                                                                 E-mail  dorthyurda@gmail.com
+
+9 Years of IT experience, Currently working with Deutsche Bank Pune.
+
+Experience on Release Management,  Change Management, Configuration Management, Build Management, Makefile and scripting expert  including ksh, sh, bash  under Unix platforms, Jira Tool Subversion(SVN),  CVS, Pack Tool, Inspack Tool.
+
+Good knowledge of automation with DevOps and ticketing systems (e.g. Service Now, Jira, SCCM, GIT, Stash, Teamcity, Jekins, Autosys, Jfrog Artifactory, Ansible, Nexsus, AWS, Versioning tools, U deploy,).
+
+Worked on VULNERABILITY SCANNER TOOLS (Veracode). Veracode's cloud-based service and systematic approach deliver a simpler and more scalable solution for reducing global application-layer risk across web, mobile and third-party applications..
+
+Experience as ITAO/PM as a plus. Experience with system and security audits.
+
+Worked with BNP Paribas Mumbai as configuration Manager and Unix Develper.
+
+Have worked with Capgemini Software (I) Pvt Ltd, Pune and  Infosys Limited as a Senior Associate Consultant.
+
+ Involved in Analysis, Estimation, Coding of Unix scripts, Configuration Management,  FileNet Administration, Creating and Executing Test cases / Scenarios, as well as Quality Processes and Documentation.Hands onexperience in Unix shell Scripting and knowledge of Oracle Pl/Sql.
+
+Expert in Unix shell script programming  Bourne, Korn shells and unix utilities (sed, awk, vi, grep, ftp,scp).
+
+Expert with Control-M scheduling in the Unix environment, Unix cron scheduling. Having knowledge of Autosys. 
+
+Experience, in both system administration and development, and as developer of an automated batch processing system for HSBC and Capital One and HSBC client
+
+Quick learner, excellent team player, ability to meet deadlines, good communication skills & works under pressure.
+
+Creative and Pragmatic approach towards work with continuous desire to move up on the learning curve and corporate ladder. My foremost aim is to make a constant endeavor towards growth  of the organization.
+
+Jobs Preferred::
+
+Release Manager and Change Management
+
+Configuration Manager
+
+Unix/Shell Script Developer
+
+Onsite Project Coordinator
+
+
+
+Skills Profile
+
+Technical
+
+Operating System
+
+Windows 98, 2000, XP, Unix
+
+Environment
+
+Client/Server
+
+Database
+
+SQL SERVER 2005, Oracle10g
+
+Internet Tools
+
+HTML, Perl
+
+Languages
+
+Shell script, Perl, SQL  PL/SQL
+
+Domains
+
+FI-ALMT,  Enterprise Content Management (ECM)
+
+Other
+
+Configuration Manager,  Control M, Autosys, FCP Image Manager, IBM FileNet P8, IBM Content Collector.
+
+
+
+Educational Qualifications:
+
+
+
+Bachelor of Engineering (Electronics and Telecommunication), from University of Pune
+
+
+
+Professional Highlights:
+
+
+
+Has Onsite experience for Configuration Management task for APAC Region.
+
+Got opportunities to work with globally popular banks like HSBC North America & Asia Pacific HSBC & Capital One Finance Ltd.
+
+Currently working as Release and Change Manager  for Deutsche Bank.
+
+Worked in Domains like Insurance, Retail Services, Mortgage for HSBC.
+
+Conducted Training Sessions in Shell Scripting and Filenet for Freshers and new joiners in the team and worked as a task lead for them
+
+Was responsible for creating Weekly Status Report (WSR).
+
+Worked as Security Champion for 1 team comprising of 15 members wherein, by carrying out various security audits, I made sure that the security is being maintained properly & according to the organizational policies.
+
+Awarded Spot Award (Rising Star Award) for being the fast learner & quickly grasping to the project environment.
+
+
+
+Projects Summary:
+
+# 1.
+
+Project:
+
+Release and Change Management, ITAO
+
+Client Name:
+
+Deutsche Bank
+
+    Role/Title:
+
+Release and Change Manager, Developer
+
+Responsibilities:
+
+Define and create project environments, Build, package and store the product to be released. Verify that the package can be installed on the target system.
+
+Tools: 
+
+JIRA, Service Now, SCCM, Teamcity, Git Bash, Stash
+
+Languages
+
+Unix/Shell Scripting
+
+Description:
+
+Owned the daily software build and release process for Production Support and ongoing projects.
+Improved the custom applications build process through automation (Continuous Integration) that resulted in 15% increase in availability of software for testing.
+Working as Developer on Unix shell scripting and DevOps tools like Service Now, Jira, SCCM, GIT, Stash, Teamcity, Jekins, Autosys, Jfrog Artifactory, Ansible, Nexsus, AWS, Versioning tools, U deploy.
+Coordinated the software release process between the Engineering and Quality Assurance (QA) teams that reduced rework by 10% and increased by 15% the availability of software updates to 24/7  DB  internal and external customers.
+ Compiled Release Versions and Build Patches for custom applications using GIT. Tracked software bug fixes to ensure no repeat issues in future releases.
+Built and maintained QA envs and performed daily installs of software packages. 
+Created & improved Release processes for Transaction Warehouse to minimize customer impact due to change
+Negotiated Release issues and schedules with internal customers and reported status to Executives
+Lead cross-functional team to support each Release project plan and post Release/Change review
+Concurrently managed multiple Releases and Changes for TDW applications
+Provided Change and Configuration management for QA and other Pre-Production Environments. Handled patching activity for UAT and PROD ENV.
+Handled patching activity for UAT and PROD ENV.
+Represented team in weekly release management forum: presented upcoming release plans and contingencies.
+Working as ITAO ( Application Manager)
+ Authorized Change Approvers.
+ Manage Production Access (with reference to Information Security Policies).
+ Communications with external audit and coordination of activities required to comply with audit.
+
+
+
+Projects Summary:
+
+
+
+# 2.
+
+Project:
+
+Configuration Management
+
+Client Name:
+
+BNP Paribas
+
+    Role/Title:
+
+Developer
+
+Responsibilities:
+
+Define and create project environments, Build, package and store the product to be released. Verify that the package can be installed on the target system.
+
+Tools: 
+
+JIRA, SVN, CVS, File zilla
+
+Operating Systems
+
+Linux  2.6.32-220.el6.x86_64
+
+Languages
+
+Unix/Shell Scripting
+
+Description:
+
+Review the impact of changes on the project
+Management Responsibilities
+Develop and maintain the CM plan
+Define and create project environments; promote, demote
+Control and enforce CM procedures  write them if there arent any or if they are not good enough
+Build Responsibilities
+Ensure that all required tools (e.g. compilers, interpreters, utilities) are available. 
+Create the necessary steering files (e.g. makefiles, scripts) to automate the build process as much as possible. 
+Schedule regular (e.g. nightly) builds and control the results of those builds. 
+Release Responsibilities
+Create baselines; re-base and merge project branches
+Build, package and store the product to be released. 
+Copy the created package to the media which is required for distributing the package. 
+Verify that the package can be installed on the target system (media-verification). 
+Make the released products available to the customer 
+Work according to the CM procedures, e.g. check-in, check-out, daily save to disk
+Create, update and test appropriate CI. 
+Deliver the new versions of CI to the appropriate software libraries.
+Analyse the impact of changes
+Set up the project environments
+Set up user accounts, privileges and config files
+Patch Upgrade
+
+
+
+# 3.
+
+Project:
+
+Interfaces Development
+
+Client Name:
+
+BNP Paribas
+
+    Role/Title:
+
+Developer
+
+Responsibilities:
+
+Requirement analysis and preparation of technical specification and test cases. Designing the process flow, Coding and manual testing
+
+Operating Systems
+
+Linux  2.6.32-220.el6.x86_64
+
+Languages
+
+Unix/Shell Scripting
+
+Description:
+
+
+Have worked on interfaces like 
+CRDS OMR (Creation and transfer of the final file to Holiday Receiver of OMR.
+FTD decommissioning (The aim of the new EXD interface is then to extract data and send them to different applications. It is to replace FOCUS reports by SQL Queries since Focus is not install on Linux server).
+Infocentre (The OMR Trade is designed to extract data from the OMR Oracle database 
+in the form of a series of flat files with a fixed length record structure for use with the Atlas Infocentre Data Warehouse application.)
+JVA (The OMR (Trade Thru / JVA interface) is designed to extract data from the OMR Oracle database in the form of a number of flat files with variable length. The files are subsequently recovered by DESIS)
+OREX (It is an interface to execute reports as sql queries. The interface provides   functionalities to manage Intraday & End of Day extractions. The reports generated as a result of the sql extractions are in various formats like csv, xls or dat.
+
+
+
+# 4.
+
+Project:
+
+Captiva to Xerox Migration ( Phase 1 ,Phase 2 and Phase 3)
+
+Client Name:
+
+Capital One Finance
+
+    Role/Title:
+
+Developer, Team Lead
+
+Responsibilities:
+
+Requirement analysis and preparation of technical specification and test cases. Designing the process flow, Coding and manual testing
+
+Operating Systems
+
+Solaris (sun4u sparc SUNW, Sun-Fire-V440)
+
+Languages
+
+Unix/Shell Scripting
+
+Description:
+
+COF wanted to demise Captiva and migrate all the functionalities to Xerox Solutions. Needed to develop scripts to replace the tool Captiva and the tasks it performed
+There are  3 phases for this project.
+Phase 1:Impacts MBBC, IP, CCS & GPO batches
+Phase 2:Impacts RS,
+Phase 3:Impacts Insurance 
+This migration project impacted the scan batches. Batch prefixes, index values were changed. We needed to design various scripts to update the the Batch_prop and Batch_Doc table with the various data stored at the time of indexing. Export of batch involved HPII of the batches from Xerox to Filenet and required a script to store the information of the indexed values, COMMITAL of Batch and Export of Batch. Finally a script was designed to generate a report for all the successful batches and send back to user.
+
+
+
+# 5.
+
+Project:
+
+Version-One
+
+Client Name:
+
+Capital One Finance
+
+    Role/Title:
+
+Developer, Team Lead
+
+Responsibilities:
+
+Requirement analysis and preparation of technical specification and test cases. Designing the process flow, Coding and manual testing
+
+Operating Systems
+
+Solaris (sun4u sparc SUNW, Sun-Fire-V440)
+
+Languages
+
+Unix/Shell Scripting
+
+Description:
+
+This project provided a new solution for Capital One Business to process all the batches in Zip format and store them in Filenet which is a repositort for future retrival. We designed script which updated the Index information which are associated with each batch into the Database. Unique ID for each Document was generated for Future use. Shell scripts for Processing of  Scan , Committal, generation of report on daily and  scheduling of batches was designed.
+
+
+
+# 6.
+
+Project:
+
+Cron To Control-M
+
+Client Name:
+
+HSBC NA
+
+    Role/Title:
+
+Developer
+
+Responsibilities:
+
+Requirement analysis and preparation of technical .Designing the process flow. Creating of Draft File and manual testing for the jobs
+
+Operating Systems
+
+Solaris (sun4u sparc SUNW, Sun-Fire-V440)
+
+Tools
+
+Control-M Enterprise Manager
+
+Description:
+
+The goal of this project was to gradually migrate all Cron Tab entry  to Control M server. In order to do that, we sorted all scripts executing on servers like Dev, UAT, Production, Common Input Box. This listed scripts were given  Job and Group name. Then  a  DRAFT file in Control-M was created . It  included steps line creation of Configuration Item (CI), Jobs details such as Table Name, Application name, Scheduling time, Scheduling day, Description of Job, Command to execute the scheduled Job, Parameters passed to the particular jobs, Environment where the Job would execute, Configuring  Control-M agent. Created jobs had to be uploaded  in Control M side database. After uploading we tested  jobs on the various environment and monitored their log in  sysout directory on Control-M Agent. Then scheduling for all the successfully executed scripts was stopped in Crontab.
+
+
+
+# 7.
+
+Project:
+
+VI Client Migration to FileNet P8
+
+Client Name:
+
+HSBC NA
+
+    Role/Title:
+
+FileNet Administrator
+
+Responsibilities:
+
+Requirement analysis and preparation of technical specification. Designing the process flow, creating, testing, and securing different objects of FileNet P8.
+
+Tools: 
+
+FileNet P8
+
+Description:
+
+This project allowed the Private Bank users to store and retrieve documents on the HSBC repository utilizing Workplace XT for Free Items business department. Implementation of this project allowed the Free Items documents to be migrated over from VI Client to FileNet. We created document classes, choice lists, search & upload templates in both DEV & UAT environments.
+
+
+
+# 8.
+
+Project:
+
+SAKS Panagon Access
+
+Client Name:
+
+HSBC NA
+
+    Role/Title:
+
+Developer
+
+Responsibilities:
+
+Requirement analysis, preparation of technical specs and test cases. Designing process flow. Coding and manual testing.
+
+Operating Systems
+
+Solaris (sun4u sparc SUNW, Sun-Fire-V440)
+
+Languages
+
+UNIX Shell Scripting
+
+Description:
+
+The objective of this project was  to update a field in Index Database for HFC domain location based on the request data file received from NOVA system. NOVA  would send a list of doc ids which are SAKS documents to CIB server. This file would move from CIB server to HFC Domain server with the help of DB file setup designed on the CIB server. A script would reIndex these documents and update particular fields with S. It involved creation of panagon template for searching.
+
+
+
+
+
+
+
+7
+
+7

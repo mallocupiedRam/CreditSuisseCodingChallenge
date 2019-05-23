@@ -1,0 +1,527 @@
+Ignacio Hinson
+
+Migration & Devlopment Project Manager /Change, Release and Problem Management & CSI Project Manger
+
++91 3131203065
+
+
+
+
+
+E-Mail-  Ignacio_Hinson@gmail.com
+
+
+
+Ignacio Hinson
+
+EXPERIENCE SUMMARY
+
+~12  years of experience in the IT support and Maintenance& Development domain. Functional experience includes Level2/3 , SME Level application(DEVOPS), Development & support for several line of business of various prestigious clients like DEUTSCHE BANK and MORGAN STANLEY,CISCO & BT, with an added experience in regular Stakeholders  and Vendor Management. Worked for BFSI (Fixed Income Derivatives & Risk Regulatory Reporting) along with Telecom, Air Logistics, Document management & ESS domains. Knowledge of SDLC and being a part of Development team.
+
+Working as a Project Manager for ~6 yrs several project deliverables in application & database migration and decommissioning, Continuous Service Improvement (Automation) development team. Chairing Problem, Change and Release Management team. Experienced in people management and successfully managed global team size ~40 team members placed globally. 
+
+Additionally managing the 16 indirect vendor team member.
+
+Vendor management Experience of managing the partner organization for the Bank and 3rd party team.
+
+Worked in a collaborative manner to manage the global team for the on-time successful delivery of the several projects.
+
+Oracle Database performance tuning. Used TK Prof and Explain Plans for the performance tuning.
+
+Providing Tier 3 technical support, and performs root cause analysis for outages and issues.
+
+Worked as Livelink Administrator and as L3/SME role.
+
+Hands on experience on generation of various matrices and reporting required by management and the client at several timeframe. Preparation of the SOW (Statement of Work) related metrics for project billing purpose.
+
+Performed report management, capacity planning and performance monitoring.
+
+Consistently attending client Meeting and surpassing all deliverables defined by the customer/contract.
+
+Developing solutions that will introduce workload efficiencies like, automation of manual tasks, Bug fixing for real time applications. Implementation of new application services and process into the production environment. 
+
+Creates technical documentation, standards and procedures with regard to system administration, including documentation on installation, system configuration, modifications, processes and procedures.
+
+Set up of new processes/services and modification of existing process/services by code changes and implementation through perforce for different applications using Perl.
+
+Extensive working knowledge of perforce for version controlling and release management. 
+
+As a Project manager I was responsible, to ensure all requirements for document storage and audit ability are met. Supporting documentation kept for business and/or legal reasons will be properly and completely stored using VSS.
+
+Good team player with proven leader with the ability to be reliable in crisis such as P1 and P2 kind of application outages.
+
+Understanding and using various CRM tool  Remedy, Service Now and Clarify 
+
+Expertise in Oracle 10g, PL/SQL, Performance Tuning, DWH & ETL concept for data modeling and transformation of data,UNIX and shell scripting,Perl,Perforce and Opentext Livelink along with Design and Development of Test Scenarios and Test cases. Have end to end knowledge on Application and Database Migration and decommissioning.
+
+Knowledge of SDLC,Change Management System, Incident Mgt, Release Mgt, Problem Mgt& Reporting and data migration.
+
+Consistent, self reliant and adaptable with the ability to learn things quickly.
+
+Excellent interpersonal skills, ability to work well with others.
+
+
+
+EDUCATIONAL QUALIFICATION
+
+M.C.A from BEHRAMPUR UNIVERSITY, ORISSA with 79% aggregate. 
+
+B.Sc Hons. (Computer Application)from Ranchi University with75%aggregate.
+
+10+2 (Science) from RSVM (Dhanbad), CBSE with 58% aggregate.
+
+10th from ISL (Dhanbad), CBSE with 52% aggregate.
+
+
+
+
+
+TECHNICAL SUMMARY
+
+
+
+Operating Systems  Windows 2003 server, Unix/Linux
+
+PROGRAMMING SKILL Oracle SQL-PL/SQL and Performance Tuning, Unix Shell Scripting, Perl, O Scripts (Open text Livelink), Wiki Markup Language (web 2.0), DWH and ETL concept, Informatica power center and OBIEE.
+
+DATABASES -ORACLE 10g, OLAP and OLTP, Informatica PC and OBIEE.
+
+BI Tools  Microstrategy, BO and Qlickview.
+
+Messaging : MQ,AQ and OWM
+
+Telecom Billing Platform: Geneva and Arbor
+
+CRM Tool  Remedy 7,Service Now and Clarify,
+
+Sprint Management: Jira.
+
+Manual Testing: Design and Development of Test Scenarios and Test cases.
+
+Working Experience on third party tools like CSS, Geneva, GPMS (Clarify), BO and Siebel portal, Autosys & Geneos.
+
+Version Control and Release Mgt: Perforce and SVN
+
+SDLC methodology  Agile (Scrum Methodology)
+
+
+
+WORK EXPERIENCE
+
+
+
+Deutsche Bank (DBOI)
+
+Associate  (Role- Project Manager for CSI, SME Team and Migration Development Projects)
+
+
+
+Domain  BFSI (Risk and Fin regulator reporting)
+
+Project Name: Financial Dataware House (FDW)
+
+
+
+FDW project is the core of the DB regulatory reporting and falls under the Financial Business services of Deutsche Bank. All the risk and some part of financial (DBP for US) reporting will gets generated from end to end and later distributed to all the regulatory bodies across the world. We are providing SME level of support with our partners doing L1/L2 activities. These reporting will be done on Monthly/weekly and daily basis. The core processing will be done by taking the input data from upstream application (trading and accounting data)  storing them in the DWH and then validating & transforming it to engine readable format through Informatica . Performing calculation on these raw data and finally generating the required reports based on specified Data Marts FRDs. Later reports gets distributed using MSTR and Axiom. 
+
+
+
+Key Roles and Responsibilities:
+
+Managing the partner L2 team across regions and managing the project level global CSI team.
+
+Managing end-to-end project deliverable.
+
+Part of ES Finance team which is responsible to response the business users of the Bank on their queries and question.
+
+Leading the release/change management (both scheduled and emergency) along with Problem management activities.
+
+Responsible to scale up the whole team in terms of technical and product knowledge.
+
+Local Transition lead for the new projects in-house transitioning.
+
+Managing the application and production issues tracking and JIRA tracking and FR/CR at ALM. Resource allocations to get the issues fixed.
+
+Release Management.
+
+DR management.
+
+Performance tracking and resource management and driving stakeholders meeting.
+
+
+
+Project and Role Description:
+
+ 
+
+PROJECT
+
+Short Description
+
+Role
+
+Team Size
+
+CRA Migration
+
+Migration of DB reporting database objects from standalone Database to Consolidated Database
+
+Project Manager
+
+10
+
+CONTROL-M Migration Development
+
+Migrating the Application Job from legacy application to control-m.
+
+Project Manager
+
+6
+
+CSI and DEV OPS
+
+Automation of manual task development, Release and Change Management. Up-skilling and transitioning of several sub projects from vendor to In-house.
+
+Project Manager
+
+24
+
+
+
+My team facilitates SME level Production/application support and maintenance for various projects which is part of Risk and financial reporting for DB. 
+
+Managing the Change and Release management for the entire project. 
+
+Problem management  Doing RCA and LTF of bugs identified in the system as reported by the lower level of support or end users. 
+
+Managing end-to-end project deliverable and process improvement as part of CSI,CRA Migration and Control-M Migration development team. 
+
+Implementation of Geneos rules for the Application and associated infra monitoring.
+
+Set up of new processes/services and modification of existing process/services by code changes and implementation through perforce for different applications using Perl.
+
+Handling escalated incidents/service requests.
+
+RCA and LTF for the application related alerts and applying the fixes in real time.
+
+Monitoring the Alerts(Applications specific, host and server related etc) and work on them to resolve it.
+
+Performs report management, capacity planning and performance monitoring
+
+Automation implementation, code review and sign off for new changes as a CSI project manager for the Project.
+
+Managing the L2/L3 production management team.
+
+Database performance check and working with DBA on optimization of Queries.
+
+Managing the partners team and helping them out as and when required both at technical as well as organizational level.
+
+Technical skill set: Perl, Unix, Java, Oracle PL/SQL, DWH &ETL concept and MSTR.
+
+Change Problem and Incident Management: ALM and Service Now.
+
+Monitoring Tool : Geneos
+
+Other tools : Jira,Confluence Several Matrices.
+
+SDLC Methodology- Scrum Methodology
+
+
+
+Tata Consultancy Services (From April 2012 to June 2015)
+
+Asst. Consultant (ASC)- Role- Project Manager
+
+
+
+Domain: BFSI (Investment Market)
+
+Client: Morgan Stanley
+
+
+
+Project Name: Fixed Income Derivatives  Interest Rates Engineering 
+
+
+
+Stared as a transitioning team member for this project. This project mainly takes care of production and application related queries along with its maintenance which include implementation of new changes, modification in existing application process/services (enhancements), Alert handling and its analysis along with the bug fixing into the production environment.
+
+
+
+Key role and responsibilities: Problem and Change Management, Automation of tasks, monitoring and update of Jobs/process and applications services, User management, implementation of new changes, modification in existing real time application process/services at code level and implementation it through perforce turnover releases. Creation of new procedures, function and packages in DB.Did performance tuning for the existing queries using tk prof and the Explain Plan. Have worked upon collections, oracle sql query optimizer (hint).DWH dimensional data modeling and transformation of data through BI tool.
+
+Onsite Assignment: Have been visited Client site Shanghai, China and Tokyo, Japan for the short term assignments based on the project requirement for the cross-training. My responsibility was to train the onsite team as well as get trained on the identified gaps within the team. 
+
+
+
+Key Skill set: Perl, Perforce, Shell Scripting and Oracle PL/SQL, DWH &ETL concept.
+
+Problem and Incident Management:Jira and Sirvice Now.
+
+
+
+Project and Role Description:
+
+
+
+We provide SME level Production support and maintenance for various applications which is part of BFSIs Interest Rate domain. Worked on changes requests (TCM) and its implementation, RCA and LTF of bugs identified in the system as reported by the lower level of support or end users. Application log monitoring.
+
+Set up of new processes/services and modification of existing process/services by code changes and implementation through perforce for different applications using Perl.
+
+Handling tickets on the End-to-End trade flows.
+
+Release of patches and next version in terms of disting using perforce.
+
+Leading the Team of 12 for the problem and change management.
+
+Knowledge of End to End process about Application migration and legacy application decommissioning.
+
+Knowledge of End to End process about application data migration.
+
+Configuration of zapp planes and creation of applications on the zapp plant.
+
+RCA and LTF for the application related alerts and applying the fixes in real time.
+
+Monitoring the Alerts(Applications specific, host and server related etc) and work on them to resolve it.
+
+Performs report management, capacity planning and performance monitoring
+
+Working on MQ error queues to analyze the errors and then advice accordingly to Trades and trade updaters.
+
+Holiday Calendar Updates to various trading application for its real time trading.
+
+Database performance check and working with DBA on optimization of Queries.
+
+
+
+Technology: Pl/Sql , Perl, Unix Shell Scripting, Autosys and Infrastructure Management
+
+Version Control: Perforce
+
+Database: Oracle 10g and Sybase
+
+CRM and Ticketing Tool: Service Now
+
+O/S: Unix 
+
+Messaging: MQ
+
+
+
+Zensar Technologies Ltd. (From March10 till 30th Mar 12)
+
+Sr. Software Engineer (Role -Associate Project Manager)
+
+
+
+Domain: Enterprise Social Software and Document management.
+
+
+
+Client: Cisco 
+
+
+
+Project Name: Communication and Collaboration IT (CnCIT) -Livelink
+
+
+
+Key role and responsibilities:Livelink Administration-Application and Data migration and decommissioning, Application Support and Maintenance (Subject Matter Expert), Code review and enhancements, module deployments, Livelink archival, Incident management team lead, Operational reports and matrices, SOW preparation. Writing of adhoc report queries. 
+
+
+
+Key Skill set:Oracle-Pl/SQL, UNIX-Shell Scripting, Core Java, Web 2.0, Functional and architectural level end to end knowledge of Livelink.
+
+
+
+Project and Role Description:
+
+We provide administration/SME support to Opentext Livelink application. Worked on changes requests and its implementation,RCA and LTF of bugs identified in the system as reported by the lower level of support or end users. Application log monitoring. Module deployment.
+
+Proving L3 Support for Livelink application.
+
+Live Reports:Generation of user reports using Livelink live report feature, also worked on adhoc report request and pulling reports from Livelink production database using Oracle Joins,Views, Procedure,functions and nested Sql queries. RegularClient Interaction via Weekly status meetings. 
+
+Security Mechanism:
+
+Functional knowledge of applications SSL Certificate renewal process at Apache level.
+
+Module Deployment:
+
+Deployment of modules using admin page of Livelink.
+
+User and User group Management:
+
+Managing user and groups, doing user administration. Monitoring associated sync Jobs with LDAP data.
+
+Also managing Mailer Sync.
+
+Infrastructure Management:
+
+Keeping track on all the associated infra related check and activities like Backup and recovery mechanism in place for Livelink servers and DB as well. Storage checks and trend reporting and Janitors setup.
+
+Notification and Workflow:
+
+Managing Notification and the Workflow of the application.
+
+Monitoring several jobs and scheduled tasks related to application like user sync,mailer sync, janitors etc.
+
+SSL and certs configuration on the Livelink hosts.
+
+Providing resolution of customer query related to database functionality, reports and application functionality.
+
+Monitoring the whole applications module and providing proactive and reactive support.
+
+Changes and Enhancements (as and when required).
+
+Doing Root Cause Analysis (RCA) and implementation of FR/CR and SRs.
+
+Doing testing for the relevant FR/CR and SRs.
+
+Creating SQL scripts and shell script, for debugging and fixing the issues.
+
+Generating user requested Reports from backend using Toad as tool and PL/SQL queries.
+
+Creating several internal reports like performance report and application availability report using Wiki Markup language.
+
+
+
+End to end functional knowledge of application and database decommissioning process. Single handily completed successful decommissioning of Internal Livelink Application and its Database. I have closely worked with several teams to make this happen without any delay and as per schedule.
+
+Performing report management, capacity planning and performance monitoring.
+
+Works with Database Administrator to ensure access and security necessary for database administration is available
+
+Knowledge of End to End process about Application migration and legacy application decommissioning.
+
+Knowledge of End to End process about application data migration.
+
+Also, as a part of Incident management provided reactive support for all 13 applications. Generation of operational support reports and matrices. As a Incident management team Lead, I have managed a team of 4 members in Offshore and 4 members of Onshore locations. Which were mainly looking out for providing a reactive support during application outages.
+
+Working with infrastructure team to keep a track on the Infra in use and monitoring it.
+
+This Project comes under Cisco IT and mainly under the collaboration and communication domain. We provide support for Global Cisco users (Internal and External), hence making their life easy in terms making applications availability >98%.
+
+
+
+Technology: Pl/Sql , Wiki Markup, Unix Shell Scripting.,
+
+Database: Oracle 10g
+
+CRM and Ticketing Tool: Remedy 7
+
+O/S: Unix and Windows 2003 Server
+
+
+
+Tech Mahindra Ltd, Pune (From Jan 08 to Dec 09)
+
+Level2/3 Support Engineer & partially working as Level3 Support profile as well (Current) and Billing Analyst
+
+BTGS (International Billing-UK)
+
+
+
+Working as a Sr. billing analyst for BT Design and Innovate project well known as International billing-UK. The clients include all UK clients who are using Media and Broadcasting and Stars products.
+
+Working on Doc1, BGS, Arbor and Geneva.
+
+Well known to the reports, billing cycles, account set up and other billing activities as required for the domain.
+
+Also working knowledge of Kenen-Arbor.
+
+
+
+BTGS (Air Logistic Programme)
+
+ALP (Air Logistics Programme) project: - This project supports all the imports and exports of cargos in UK and rest of world. I support the customer queries related to database and GUI for ALP system. 
+
+Providing resolution of customer query related to database functionality and reports.
+
+Providing resolution to GUI related issues (mainly functionality related changes).
+
+Identifying route cause of FR/CR and SRs.
+
+Doing testing for the relevant FR/CR and SRs.
+
+Creating shell script and SQL scripts.
+
+Working on PL/SQL, Oracle 10g, SQL Dev 2000, UNIX.
+
+Design and Development of Test Scenarios and Test cases for the testing of FR/CR and SRs..
+
+Oracle DB performance tuning and optimization of queries using TkProf and Explain Plan.
+
+
+
+Infosys Ltd, Pune (From Aug 06 to Jan 08)
+
+Technical Support Executive
+
+Responsibilities
+
+Worked for Infosys Ltd for 18 months as a Broadband Diagnostic advisor (L2) for BT (Wholesale)s BT_TSR
+
+(Telecom Strategic Review) under sub process as Project Dore.
+
+ Brief Description:  This was a troubleshooting process for the biggest UK telecom clients broadband related queries.  
+
+It was a technical process where we need to understand the broadband basics and how exactly it works.
+
+Worked for British telecomm (BTW). 
+
+Worked on CSS Application And other Remedy Tools as Woosh, SIDBI, Clarify, and Siebel.
+
+Worked as a Diagnostic Advisor for the Broadband Process and as a tester (Manual testing).
+
+Also worked on UNIX shell script (Bash) as and when required.
+
+Contact Open reach Engineers and other service providers like BT Retail, Orange, and Tascali for the EU checks.
+
+Attended various client calls on daily and weekly basis in regards to Quality and Process updates.
+
+Continues improving the quality of work delivered.
+
+Helped the team to perform better on a daily basis.
+
+Have been efficiently and effectively handled a team of 20 advisors as the Team coach.
+
+Have been sent to Infosys Ltd, Bangalore for the set up of BT (Wholesale) during Transition period and have been completed my tenure efficiently with maximum quality and productivity as the output
+
+Being regularly recognized and being rewarded for my efforts and quality work
+
+Attended Quality Calls, which were beneficial for the overall performance of the team. Work Up to the standard set by the client and always produced the desired result to both the Internal and the External Client.
+
+Oracle DB performance tuning and optimization of queries.
+
+ACHIEVEMENTS
+
+
+
+Received the letter of recognition 
+
+
+
+Award for best Project and People Manager.
+
+Received letter of recognition and appreciation from Natasha Crump (Head of Operations (India),BT Wholesale) for    sharing knowledge and quality work.
+
+Received the letter of recognition from Infosys for my efforts for quality work and collaborative approach.
+
+Have got several awards in terms of cookies in Tech Mahindra Ltd for individual performances as well as recognized        within the Team and have been often appreciated by client. Also took part and being awarded in several sports activity.
+
+Have being regularly received appreciations by stakeholder on-time and quality project deliverables.
+
+
+
+TRAINING ATTENDED
+
+Analytical Skills 
+
+Problem solving and decision making
+
+Communication skill.
+
+Stress Management.
+
+ITIL V3

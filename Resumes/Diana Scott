@@ -1,0 +1,330 @@
+Diana Scott
+
+Ph:+91 6976552884
+Pune, India.
+
+ 
+
+
+
+
+
+
+
+SUMMARY
+
+
+
+Around 10.5 years of rich IT experience in the area of Service Delivery, IT infrastructure Management, Incident, change and Release Management. This includes IT Infrastructure project planning & implementation, Data Centre & Disaster Recovery Management/support and vendor management.
+
+Currently working as a Front Office analyst (Rates (FICC)) for Barclays Capital.
+
+Experience in handling Front office traders, Middle office, Product control and Global Finance Risk Management teams in a high pressure environment. 
+
+Manage communication over major incidents through proper escalation procedures and clear follow-up with the required teams(includes uploading post-mortem and fix date for the action points identified)
+
+Change and Release Management for front office and middle office applications.
+
+Proficient in monitoring as well as managing various AUTOSYS Jobs.
+
+Resolving the issues by executing various UNIX Scripts and PL/SQL scripts.
+
+Effective leader with proven abilities in leading teams during the project phase, training & guiding team members and enabling knowledge sharing amongst the teams.
+
+An effective communicator with excellent relationship building & interpersonal skills.
+
+Willing to learn new things. Believe in flexible approach to work. Analytical approach in problem solving.
+
+
+
+
+
+TECHNICAL SKILLS
+
+
+
+
+
+Languages
+
+Oracle PL/SQL, Unix , Shell Scripts (KSH)
+
+RDBMS
+
+Oracle 9i, Oracle 10g, Sybase 
+
+Tools/Utilities         
+
+Putty, Toad for Oracle, PL\SQL developer ,Autosys, SQL Developer, Control-M, SQL*Loader, Mantas 5.8.1,  ServiceNow, Summit
+
+O.S.         
+
+Linux, Solaris, Microsoft Windows XP
+
+Certification (s)
+
+ITIL Foundation v3
+NCFM Capital Market
+PMP Training 
+
+
+
+
+
+
+PROFESSIONAL EXPERIENCE
+
+
+
+Patni Computer Systems, Pune
+
+Oct 2007  Oct 2010
+
+Mphasis  An HP Company, Pune
+
+Oct, 2010  September, 2011
+
+PolarisFT, Pune
+
+Nov, 2011  August 2013.
+
+Barclays Technology Center of India ,Pune
+
+August 2013  Mar 2016
+
+TCS ,Pune
+
+April 2013  till date
+
+
+
+
+
+
+
+
+
+
+PROJECT EXPERIENCE: Barclays Technology Center of India and now its outsourced to TCS:
+
+
+
+Trade Management System(TMS)
+
+Technology: UNIX, Autosys, SQL
+
+Duration: Aug, 2013 to till date. Role: APAC Shift Lead 
+
+Team Size: 15
+
+Description:
+
+TMS is the golden source for trade database. Trades are booked via eTrade Lite GUI with ECN (BARX, Swapswire).TMS stores data from all these sources and publishes to downstream.
+
+
+
+Responsibilities:
+
+Providing L2 support to the application which involves interaction with different MO, FO teams. 
+
+Onboarding new applications setup experience during the phase of transition from UAT to production. 
+
+Supporting End of day processing and different batch processing carried by the banking EOD modules and solving issues as per SLA. 
+
+Incident management, Problem management, Change Management and Release Management and following the tickets as per SLA. 
+
+Performing application health checks. 
+
+Monitoring and modifying shell scripts as per requirement and Log files for error tracking and handling. 
+
+Monitoring scheduled jobs in different production, development and staging box. 
+
+Creating audit reports.
+
+Handling and managing offshore and onshore application support teams.
+
+
+
+
+
+PROJECT EXPERIENCE: Polaris Financial Technology Limited, India
+
+
+
+Trade Capture Workflow
+
+Client: Barclays Capital 
+
+Technology: UNIX, Autosys, Korn Shell Scripting, Sybase, SQL,Summit
+
+Duration: Nov, 2011 to Apr, 2014. Role:  Team Lead (Production Support [L2])
+
+Team Size: 15
+
+Description: 
+
+        Trades are booked via eTrade Lite, Summit GUI .Trades are booked with ECN (BARX, Swapswire).TCW Workflow captures the trades from DDM, Summit & ECN. TCW Workflow enriches the trades. TCW Workflow saves the trades inside TMS DB. TCW Publish trade updates on Message Bus. Event Management System Responsible to execute events on trades at a particular point in time. Handle all events throughout the entire life cycle of a FI Rate Products
+
+
+
+Responsibilities:
+
+Providing L2 support to the application which involves interaction with different MO, FO teams. 
+
+Onboarding new applications setup experience during the phase of transition from UAT to          production. 
+
+Supporting End of day processing and different batch processing carried by the banking EOD modules and solving issues as per SLA. 
+
+Incident management, Problem management and following the tickets as per SLA. 
+
+Performing application health check. 
+
+Monitoring and modifying shell scripts as per requirement and Log files for error tracking and handling. 
+
+Monitoring scheduled jobs in different production, development and staging box.
+
+
+
+
+
+
+
+PROJECT EXPERIENCE: Mphasis An HP Company
+
+
+
+Trade Compliance Monitoring (TCM)
+
+Client: Royal Bank of Scotland (RBS).
+
+Duration: Oct, 2010  Sep, 2011. 
+
+Technology: Mantas (v5.8.1), UNIX, Oracle PL/SQL, SQL, Autosys, Korn Shell Scripting, Oracle 10g. 
+
+Role: Sr. Team Lead (Production Support). Team Size: 8
+
+Description:
+
+The Royal Bank of Scotland (RBS) bank has to ensure that it complies with recent Market Abuse Directives. All suspicious and unusual patterns of behaviour within ABN AMRO front office trading systems need to be identified and business needs to be alerted. For this purpose, the bank has implemented a strategic trade compliance monitoring application. The tool Mantas has been chosen to implement this roll out.
+
+Data from the front office systems will be extracted and sent via an overnight batch feed to a staging area where it will be transformed & loaded into a behaviour detection engine. The application generates alerts in the event of potentially problematic practices related to interaction with securities markets. The product allows the compliance business users to replay market events at a pre-established time surrounding an alert, providing a context of business data and historical information that supports analysis and issue resolution. This solution provides visibility into interactions between traders & other market participants, and helps ensure adherence to industry regulations and RBS trading rules.
+
+
+
+Global Aggregated Disclosure (GLAD)
+
+Client: Royal Bank of Scotland (RBS).
+
+Duration: Oct, 2010  Sep, 2011. 
+
+Technology: Mantas, AML, UNIX, Autosys, Korn Shell Scripting, Oracle PL/SQL, SQL, Web sphere, Oracle 10g. 
+
+Role: Sr. Team Lead (Production Support). Team Size: 7
+
+Description:
+
+ABN AMRO Bank and RBS are required to demonstrate compliance with the global disclosure of major shareholdings regulations in approximately 40 countries.
+
+Governments and Regulators require the disclosure of information that can affect the perceptions of the value of listed corporations. Specifically, the disclosure rules confer obligations upon substantial shareholders to disclose their interest in a listed company if the percentage of aggregated global shareholdings in that issuer exceeds a pre-determined threshold. The reporting rules and deadlines vary between countries.
+
+The primary source systems will supply positions and reference data to GLAD - a purpose-built data repository, which will provide an accurate position of Global Banking Markets interests for disclosure and can be used for reporting and enquiries. Standard reports will be generated daily. GBM Compliance will be able to review and maintain the data and define reports, before submitting the data to RBS Group Share Aggregation and making appropriate disclosures where required.
+
+Roles and Responsibilities:
+
+Providing L2 support to the application which involves interaction with different teams.
+
+Application setup experience during the phase of transition from UAT to production.
+
+Supporting End of day processing and different batch processing carried by the banking EOD modules and solving issues as per SLA.
+
+Incident management using Digital Workflow tool, resolving the tickets as per SLA.
+
+Performing application health check.
+
+Monitoring and modifying shell scripts as per requirement and Log files for error tracking and handling.
+
+Analysis and resolution of Shell Scripts, Stored Procedures, and SQL Loader jobs in case of autosys job failures in production environment.
+
+Monitoring scheduled jobs in different production, development and staging box.
+
+Writing SQL queries for different kind of reporting as per user requirement and audit purposes.
+
+Controlling the Batch run with various Autosys (CLI) commands.
+
+
+
+
+
+PROJECT EXPERIENCE: Patni Computer Systems 
+
+
+
+GSS Merlin L3 Support
+
+Client: McDonalds Corporation, USA
+
+Technology: UNIX, Autosys, Korn Shell Scripting, Oracle PL/SQL, SQL, Peregrine Service Center, VSS, Clear Case
+
+Duration: July, 2009  Oct, 2010. Role: On Site Coordinator in USA
+
+Team Size: 14
+
+Description: 
+
+            The McDonalds Global Shared Support (GSS) Organization is currently supporting a large portfolio of global applications. The scope of L3 support includes Incident Ticket Management, Incident Task Management, Process Documentation, Root Cause Analysis and Defect Prevention. Prepare learning documents with details on functional understanding of the process that is tested and share it with customers/onsite/offshore teams.
+
+Merlin is a global technology platform that captures shares and manages critical information about products, suppliers, and the menu. It is also a tool for Menu Management to optimize development and commercialization of successful new menu items, with least cost and time to market. Merlin enables the sharing of product, supplier, menu and promotional information, so that best practices can be rapidly and effortlessly adopted on regional and global levels.
+
+
+
+TOMAS ,  Enhancement Project
+
+Client: Procter & Gamble Co. (P&G), USA
+
+Duration: Oct, 2007  July, 2009. 
+
+Technology: Oracle PL/SQL developer, SQL, Javascript, HTML, Oracle 9i, CM- VSS, Harvest and SharePoint. 
+
+Role: Developer Team Size: 7
+
+Description:
+
+The Online Media Administration System (TOMAS) is an online, integrated solution that enables users to manage the media planning and buying process more efficiently and effectively.
+
+TOMAS is an application designed to support the media planning and buying processes of a P&G subsidiary. The system is a web-based application built on Oracle (Oracle Application Server and Oracle 9i backend). It is hosted on the P&G Extranet. This project wholly defines the Media process followed at various regions all over the world; this application is accessed by users from around 80 countries.
+
+This is mainly a web based application with a two-tier architecture (With Oracle 9i Application Server and Oracle Database server).The tools PL/SQL Developer & Toad are used for data base management; VSS, Harvest and SharePoint are used for Configuration management.
+
+
+
+Roles and Responsibilities:
+
+ Requirement gathering
+
+ Analysis (MCR Creation)
+
+ Database Design
+
+ Coding
+
+ Preparing Test Cases to test the code under various environments (Development, QA, Production)
+
+ Performing Testing and Reviewing (Self and Peer-to- Peer) as per test cases
+
+ Providing Knowledge Transfer to the new team members
+
+
+
+
+
+
+
+EDUCATION
+
+
+
+B.E  in Information and Technology, Pune, India 
+
+12th CBSE  Kendriya Vidyala , Pune 
+
+10th CBSE  Kendriya Vidyala , Pune
