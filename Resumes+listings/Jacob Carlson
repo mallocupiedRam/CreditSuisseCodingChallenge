@@ -1,0 +1,241 @@
+Jacob Carlson
+
+1227 Seaton Rd Apt 59, Durham, NC 27713 
+
+ (Cell) 919-555-5568
+
+jacobcarlson@gmail.com
+
+
+
+PROFESSIONAL EXPERIENCE
+
+BS Computer Science, MBA  IT Management, with 20+ years of professional experience.
+
+Highly skilled in managing new product development and testing for business units.
+
+Provide training and assistance on system architecture for new team members.
+
+Conduct Quality Assurance planning activities supporting development teams.
+
+Strong interpersonal skills with the ability to work extremely well in a team or independently.
+
+Strong team building and customer relationship management skills
+
+Strong project management skills.
+
+Proficient at SharePoint 2010 design and Oracle database integration through external content types (ECT) and business connectivity service (BCS).
+
+C#. Net, Oracle, SQL Server
+
+
+
+EMPLOYMENT HIGHLIGHTS
+
+Durham Public Schools   2017- 2018 School Year
+
+Substitute Teacher
+
+Administered classroom plans for grades K-12 
+
+Exceptional Children (EC/AU) Resource
+
+Worked as an inclusion/pull out resource and provided one-on-one instruction as needed.
+
+
+
+Kestrel Heights School    2016-2017 School Year
+
+Substitute Teacher
+
+Administered classroom plans for grades K-12 
+
+Exceptional Children (EC) Resource
+
+Worked as an inclusion/pull out resource and provided one-on-one instruction as needed.
+
+
+
+Independent Work    September 2013 to 2014
+
+Software Developer
+
+Developed a web application that used Rackspace Cloud Files  to stream video content. The technologies utilized are Visual Studio 2010, C# .Net MVC, LINQ, Entity Framework, SQLServer 2008 and PayPal APIs. 
+
+Used NuGet package to include Rackspace classes for connecting to cloud files and containers.
+
+Created all Models, Views and Controllers for the application. 
+
+Created the database schema and indexes.
+
+Created models, views and controller to interface with PayPals Instant Payment Notification (IPN) API, and stored the information receive in the database.
+
+Created views, models, and controller to interface with PayPals Mass Payout API and stored the information received in the database. The Mass Payout class used information from the IPN to process payments.
+
+
+
+SRA International, Durham NC    July 2008 to June 2012
+
+IT Portfolio/Project Manager 
+
+Responsible for the development and implementation of processes for tracking, coordinating, and communicating portfolio related activities to decision makers and key stakeholders across the organization. Each division within the National Institute of Environmental Health Sciences (NIEHS) knew which of the their applications were to be migrated to the next version of Cold Fusion, which applications were to be retired, and which applications were to be replaced by a COTS (Cognos, TAMIT, Edie, SOFie, BizFlow), and also had a view of the outstanding work requests for each application. This information helped the Technical Review Committee keep a realistic balance between the outstanding backlog of work and request for new work. Reporting artifacts were created using SharePoint 2010 and Cognos to keep the NIEHS CIO abreast of the status and health of each application in the portfolio.
+
+Responsible for establishing, managing, and maintaining relationships with business owners and stakeholders by capturing their business needs and providing solutions to meet their goals and objectives.
+
+
+
+Project Manager/SharePoint Designer
+
+Responsible for converting the previous NIEHS Office of Human Research and Compliance (OHRC) cold fusion application into a SharePoint site. Leveraged SharePoints ability to design and implement on the spot, and held weekly meetings with the customer to immediately implement design and content. Converting the application to SharePoint allowed the customer to manage the application content themselves, and freed IT resources to be leveraged across other projects.
+
+Coordinated and communicated the MOSS 2007 to SharePoint 2010 migration effort for all NIEHS divisions. Over 300 sites were successfully migrated.
+
+
+
+Development Support Manager (hands on)
+
+Architected the integration of Research Condition & Disease Categories (RCDC) Concepts into NPDR to eliminate the manual indexing process need to link projects to disease categories for congressional report generation, saving the client summer intern labor cost. Integration worked entailed redesign and extending the Oracle database model.
+
+Led the redesign of Oracle primary keys for NPDR so that master projects were no longer bundled and summed for cost. This enabled the customer to have a more detailed view of projects and their costs, and enabled the distinct projects to be added to congressional reports.
+
+Wrote performance evaluations for team of eight SRA employees and subcontractors.
+
+
+
+URS Corporation, Morrisville NC   March 2007 to July 2008
+
+Senior Programmer 
+
+Used C#, ASP .Net, Visual Studio 2005, XML, XSL, SQL Server and Oracle 10g to develop new applications and modify existing code and pages, and Oracle database models for various projects.
+
+Created and administered various SharePoint Sites using Windows SharePoint Services 3.0.
+
+
+
+
+
+LC Industries, Durham NC    September 2006 to December 2006
+
+Senior IT Analyst 
+
+Created, modified, and enhanced reports using the Application Object Tree (AOT) of Microsoft Dynamics/Axapta ERP Application. These reports were utilized by the pricing and accounting departments.
+
+Used MS SQL Server Data Transformation Services to load data from MS Excel sheets.
+
+Generated adhoc reports using SQL Query Analyzer.
+
+
+
+
+
+Digital Magnet, Inc.  Bowie MD
+
+Contract Operations/Technical Manager - March 2005 to June 2006 
+
+Resolved technical issues with digital content deployment.
+
+Configured Digital Advertising Systems (DAS) for customer deployments.
+
+Monitored client systems and network to make sure video campaigns were successfully deployed.
+
+Meet weekly with Chief Technology Officer and provide status updates.
+
+
+
+Contract Java/ VB .Net Programmer 
+
+Expanded the MySQL database, and created client side classes and servlets to capture DAS video download and campaign activity. 
+
+Created VB .Net application that loads data from an Excel Workbook and displays the names of the worksheets in a listbox and the data associated with the selected listbox item in a datagrid. The user can then create Microsoft Windows Media Play List Files and/or store the data in a MySQL database.
+
+
+
+Contract Java Programmer June 2004 to Oct 2004
+
+Redesigned and created new client side classes to retry the retrieval of digital videos if the connection was dropped or all bytes of the file were not transferred.
+
+Implemented email notifications for the ftp failures using IIS SMTP Virtual Server.
+
+
+
+Contract Java Programmer Nov 2003 to Feb 2004
+
+Wrote client side java classes to retrieve digital videos from remote locations and store the digital videos in a local directory on the client machine to be played at a configurable specific time on the Digital Advertising System (DAS). The development was done using Win XP Professional OS and SUN J2SDK1.4.2.
+
+
+
+Nortel Networks  RTP NC    July 1995 to November 2002
+
+Sr. IS Specialist 
+
+As the team leader and project manager for the Global Operation Solutions business unit, managed design enhancements, new development, testing, deployment and support (all levels), database schema and roles for various strategic pricing and order management web applications for 100+ internal customers. Weekly status meetings were held to manage client expectations, status updates were provided, and responsibilities delegated to global resources as necessary.  The technologies used to manage the applications were Oracle (8i), PL/SQL, Java, WebObjects (4.01), Toad, and UNIX (Solaris) Shell Scripts.
+
+As a developer, Oracle database tables were modeled, WebObjects screens were designed, and Java code written to store and retrieve data in and from the Oracle database. UNIX Shell scripts were also developed to invoke PL/SQL functions and procedures via CRON. Oracle SQL Loader was used to load data from files into Oracle staging tables. PL/SQL code was invoked to move the data from the staging tables to the application database tables in an order that would not violate integrity constraints in the database schema. 
+
+New Product Introduction Senior Analyst
+
+Directed and coordinated the efforts of development project managers, client managers, IS Customer Service primes, Development &Acquisitions primes, and Call Management primes to    ensure successful transfer of new or existing projects to the IS Customer Service organization.
+
+Conducted New Grad Job Fairs and Interviews for the department and made hiring    recommendations.
+
+Gave departmental presentations on the New Product Introduction process to Sr. Client    Managers, Sr. Project Managers, and IS Customer Services Managers.
+
+Senior Information Systems Specialist/Senior Project Leader
+
+Developed applications and system processes to provide business solutions for the Sales and Marketing dept. to enable global automation of business processes for SRN(Service Ready Network) utilizing Parc Place Smalltalk and Pro*C. The application helped to forecast future sales based on the current capacity of the equipment installed at the customers site.
+
+Senior Quality Assurance Analyst/Senior Project Leader
+
+Conducted QA planning and verification activities for development projects and participated in all stages of the full project life cycle at Nortel. 
+
+Assisted other project teams in adopting recommended quality practices and methods, ensuring that corporate objectives were met.
+
+Managed the Oracle test database objects (schemas, indexes, triggers, etc.) by serving as a single point of control for all changes in the test databases.
+
+Supported the test data needs of the QA department to enable the software validation process,    loading, processing, archiving, and reporting on test data as needed.
+
+
+
+Bridgepoint (Formerly dba Encompass)  Cary NC  February 1992 to July 1995
+
+Senior Integration Engineer 
+
+Worked with project managers, logistic consultants, developers, and global account directors to gather requirements and define integration solutions that allowed the customers legacy systems to integrate with the Encompass application. Encompass allowed shippers to query/request statuses from their carriers while the inventory was in-transit.
+
+Managed and coordinated resources and tasks associated with the technical aspects of specific customer accounts, including the directing of third party resources.
+
+Quality Assurance Team Leader
+
+Managed a six-person team that designed and conducted behavioral test for a distributed client/server system infrastructure. Wrote performance appraisals for staff and conducted interviews for the department.
+
+Provided training and assistance to new team members, all Encompass QA Engineers and call center support staff, on the system infrastructure architecture.
+
+Point of contact between global operations and development organizations for software errors encountered in the production environment.
+
+Interfaced with third party vendors, Encompass systems design and development teams, product management, finance, customer engineering, and customer staffs.
+
+Assigned team resources and worked with managers to schedule test activities.  Represented QA Manager in his absence for all QA issues.
+
+
+
+QA Consultant for IBM (Durham, RTP, Cary- NC)   May 1988 to October 1991
+
+Developed processes to ensure that SAA Asset Manager supported the business administration of hardware, software, and related resources.
+
+Wrote REXX programs to test the navigational component of SAA Asset Manager.
+
+Ran functional verification test for ISPF to ensure that the modifications to the Dialog Manager were developed according to the product functional specifications.
+
+Tested new and base releases of microcode for the 3174 subsystem control unit to ensure that     the integration of new functions did not adversely affect the operations of base code.
+
+Trained IBM employees, IBM cooperative education students and other consultants on the     procedures necessary to configure and test the 3174 subsystem control unit.
+
+Protocols Tested: X.25, BSC, SNA, Remote SNA, Token-Ring
+
+
+
+EDUCATION 
+
+BS Degree Computer Science, North Carolina State University, May 1988
+
+MBA  IT Management, Western Governors University, November 2010

@@ -1,0 +1,36 @@
+About The Job
+As part of the SRE team, you will be continually challenged and have an opportunity to contribute to work closely with the development partners.
+As a DevOps engineer, you will solve interesting technical challenges by defining, designing deploying and troubleshooting key Azure Cloud services, platforms, and infrastructure, always thinking about reliability, scalability, resilience, security, and performance.
+What You'll Do
+•	Service Ownership –You will be part of the SRE team, whose mission is the shared full stack ownership of a collection of services and/or technology areas, with our Development partners.
+•	Ownership Scope – As an SRE, you will understand the end-to-end configuration, technical dependencies, and overall behavioral characteristics of the production services you own. In partnership with your Development partners, you will have the responsibility to ensure that services are designed and delivered to be mission critical with focus on security, resiliency, scale, and performance. SREs are the ultimate authority and are accountable for the end-to-end performance and operability of the services they own.
+•	Service Design – As the Cloud evolves; you will partner with development teams in defining and implementing improvements in service architecture, both current and future. As an SRE, you will be an expert at articulating technical characteristics of your services and the dependencies between services, and guide Development teams to engineer and add premier capabilities to the Azure Cloud service portfolio.
+•	Operations Engineering – You will understand and be able to communicate the scale, capacity, security, performance attributes and requirements of the services you own. They are Subject Matter Experts, able to understand and communicate every characteristic of their service stack, such as:
+•	degradation and behavior under load of the services and their dependencies
+•	end-to-end tuning needs, optimizing resource utilization, as load patterns fluctuate
+•	Instrumentation and metrics that clearly describe the service behaviors
+•	scaling requirements and patterns
+•	resiliency and recoverability, ensuring that backup / restore and disaster recovery capabilities are implemented, tested and maintained
+•	Automation – You will have a clear understanding of automation and orchestration principles, and will be eager to automate, wherever and whenever the possibility arises, while simultaneously eliminating technical debt. Automation must be part of your DNA.
+•	Technical Experts - As service owner, you are the ultimate escalation point for complex or critical issues that have not yet been documented as SOPs for Level1 staff. You will usually get called in during major incidents as an SME, when the source of a problem is unclear. You will have the deep understanding of service topology and their dependencies required to troubleshoot issues and define mitigations.
+•	Broad Interests - SREs are a rare mix of sysadmins and development Engineers, and as such have the ability to understand and explain the effect of product architecture decisions on the ability to run as distributed systems. They are driven by professional curiosity and a desire to develop deep understanding of their services and the technologies they depend upon.
+What You Need to Have
+A BS or MS in Computer Science, or equivalent
+Knowledge of:
+•	Scripting languages, such as Python, Ruby, Bash, etc.
+•	DevOps toolchain
+•	Cloud computing patterns
+•	IT Security and compliance
+•	Methodical approach to troubleshooting complex problems
+•	REST APIs
+•	Load balancing technologies
+•	Proficiency working with algorithms, data structures and production troubleshooting. 
+•	Expertise in problem solving and analyzing global scale distributed systems. 
+•	Engineering solutions to design, build, and maintain efficient large-scale systems is a true strategy, and a good one. 
+Experience with:
+•	Development in languages, such as C, C++, Java, golang, Pyhthon
+•	Databases and big data stores
+•	Container technologies, such as Docker
+•	Defining and documenting technical architecture of complex and highly scalable products
+  
+
