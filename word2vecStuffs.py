@@ -47,7 +47,7 @@ def train_model(path_to_files, path_to_save):
 
 
 
-def output_best(path_to_resumes, path_to_listing):
+def output_best(path_to_resumes, listing_text):
     all_files = ""
     files = []
     resume_cnt=0
@@ -62,10 +62,10 @@ def output_best(path_to_resumes, path_to_listing):
             resume_cnt+=1
             resumes.append((f,text))
         all_files+=" "
-    listing = open(path_to_listing, "r") 
-    text = listing.read()
-    all_files +=  text
-    files.append(text)
+    #listing = open(path_to_listing, "r") 
+    #text = listing.read()
+    #all_files +=  text
+    files.append(listing_text)
     model1 = gensim.models.Word2Vec.load("word2vec.model")
 
     centroid_vec = []
@@ -77,8 +77,6 @@ def output_best(path_to_resumes, path_to_listing):
 
     sim_enum = list(enumerate(sim_matr[-1][:resume_cnt]))
     sim_enum.sort(key = lambda x: -x[1])
-    print(path_to_listing,":",[resumes[x[0]][0] for x in sim_enum[:3]])
+    print([resumes[x[0]][0] for x in sim_enum[:3]])
 
 
-output_best("Resumes/text","Listings/text/Automation")
-train_model("All_files/text","test.model")
