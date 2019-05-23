@@ -1,11 +1,25 @@
 
 
-Designation:
-Team member
+Graduation Year:
+2012
+2006
 
 
-Name:
-Ayesha B
+Skills:
+* Sincere and Hardworking in nature
+
+
+Location:
+Bangalore
+
+
+Companies worked at:
+Oracle
+
+
+Degree:
+C.B.S.E.
+B.E. in CSE
 
 
 College Name:
@@ -18,16 +32,9 @@ Email Address:
 indeed.com/r/Ayesha-B/b2985be284dee3d6
 
 
-Graduation Year:
-2006
-2012
-2008
+Name:
+Ayesha B
 
 
-Degree:
-B.E. in CSE
-C.B.S.E.
-
-
-Companies worked at:
-Oracle
+Designation:
+Team member

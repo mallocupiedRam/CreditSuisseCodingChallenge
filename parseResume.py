@@ -18,10 +18,13 @@ from sklearn.metrics import accuracy_score
 
 from nltk.tokenize import word_tokenize 
 from nltk.corpus import stopwords
+from fuzzywuzzy import fuzz
+
 
 global_text = ""
 global_file = ""
-nlp1 = spacy.load("Entity-Recognition-In-Resumes-SpaCy-master/my_model")
+nlp1 = spacy.load("Entity-Recognition-In-Resumes-SpaCy-master/my_model1")
+nlp2 = spacy.load("Entity-Recognition-In-Resumes-SpaCy-master/my_model")
 if 'ner' not in nlp1.pipe_names:
     ner = nlp1.create_pipe('ner')
     nlp1.add_pipe(ner, last=True)
@@ -37,7 +40,6 @@ def createParsed(filename):
     s = "."
     file = s.join(parsed)
     global_file = file
-    print(extension)
     
     if (extension == "docx" or extension == "doc"):
         text = docx2txt.process(filename)
@@ -65,7 +67,6 @@ def createParsed(filename):
         else: 
             text = textract.process(fileurl, method = 'tesseract', language = 'eng')
         
-        print (1)
         for char in text:
             if (32 <= ord(char) <= 126):
                 final += char
@@ -73,11 +74,21 @@ def createParsed(filename):
 
     f=open(global_file+".txt","w", encoding="utf-8")
     doc_to_test=nlp1(global_text)
+    doc_to_test2 = nlp2(global_text)
     d={}
+    add = True
     for ent in doc_to_test.ents:
         d[ent.label_]=[]
     for ent in doc_to_test.ents:
         d[ent.label_].append(ent.text)
+    for ent in doc_to_test2.ents:
+        if ent.label_ not in d.keys():
+            d[ent.label_] = []
+    for ent in doc_to_test2.ents:
+        for en in d[ent.label_]:
+            if (fuzz.partial_ratio(ent.text, en) > 90):
+                add = False
+        if (add or d[ent.label_] == []): d[ent.label_].append(ent.text)
     
     for i in set(d.keys()):
     
@@ -85,7 +96,7 @@ def createParsed(filename):
         f.write(i +":"+"\n")
         for j in set(d[i]):
             f.write(j.replace('\n','')+"\n")
-    print (d)
+    return (d)
 
 def generateText():
     for filename in os.listdir("Resumes"):

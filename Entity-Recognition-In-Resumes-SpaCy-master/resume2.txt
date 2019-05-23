@@ -1,25 +1,25 @@
 
 
 Skills:
-• Domain - Retail• Technology - Mainframe (COBOL, JCL, DB2, Teradata), Service now.• Operating System - Mainframe (z/OS)• Database - DB2, SQL, Teradata.• Utilities - FILE-AID, IDCAMS, DFSORT basics, LIBRARIAN, FTP/SFTP, CA-7 basics.• Tools - Query Management Tool (QMF), SQL Assistant, Service now, Remedy.Key Strengths:● Effective Communication Skills and Zeal to learn.● Flexibility and Adaptability.● Good Leadership Qualities.● Analytical and Problem Solving Skills.
 servicenow (1 year), Mainframe (3 years), cobol (3 years), Jcl (3 years), Teradata (3 years)
-
-
-Designation:
-System Engineer
-Senior Systems Engineer
-
-
-Location:
-Hyderabad
 
 
 Years of Experience:
 3.2 years
 
 
-Name:
-Akhil Yadav Polemaina
+Location:
+hyderbad
+Hyderabad
+
+
+Companies worked at:
+Infosys
+Infosys Limited
+
+
+Degree:
+Electrical and Electronics Engineering
 
 
 College Name:
@@ -30,5 +30,10 @@ Email Address:
 indeed.com/r/Akhil-Yadav-Polemaina/f6931801c51c63b1
 
 
-Degree:
-Electrical and Electronics Engineering
+Name:
+Akhil Yadav Polemaina
+
+
+Designation:
+Senior Systems Engineer
+Senior System Engineer

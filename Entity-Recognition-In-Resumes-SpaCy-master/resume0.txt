@@ -1,33 +1,19 @@
 
 
+Graduation Year:
+2013
+
+
 Skills:
-Programming language: C, C++, Java• Oracle PeopleSoft• Internet Of Things• Machine Learning• Database Management System• Computer Networks• Operating System worked on: Linux, Windows, Mac
 C (Less than 1 year), Database (Less than 1 year), Database Management (Less than 1 year),Database Management System (Less than 1 year), Java (Less than 1 year)
-
-
-Designation:
-Application Development Associate
 
 
 Location:
 Bengaluru
 
 
-Name:
-Abhishek Jha
-
-
-College Name:
-B.v.b college of engineering and technology
-Kendriya Vidyalaya
-
-
-Email Address:
-indeed.com/r/Abhishek-Jha/10e7a8cb732bc43a
-
-
-Graduation Year:
-2017
+Companies worked at:
+Accenture
 
 
 Degree:
@@ -35,5 +21,18 @@ Degree:
 B.E in Information science and engineering
 
 
-Companies worked at:
-Accenture
+College Name:
+Kendriya Vidyalaya
+B.v.b college of engineering and technology
+
+
+Email Address:
+indeed.com/r/Abhishek-Jha/10e7a8cb732bc43a
+
+
+Name:
+Abhishek Jha
+
+
+Designation:
+Application Development Associate

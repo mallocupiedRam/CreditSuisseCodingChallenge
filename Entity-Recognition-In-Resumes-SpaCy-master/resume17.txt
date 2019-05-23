@@ -1,25 +1,31 @@
 
 
+Graduation Year:
+2014
+2012
+
+
 Skills:
 AWS Devops
 
 
-Designation:
-software engineer
-Bangalore
-Devops Engineer
+Years of Experience:
+3.5+ years
 
 
 Location:
 Bengaluru
 
 
-Years of Experience:
-3.5+
+Companies worked at:
+cisco
+Devops Engineer
+Cisco
+Cisco Bangalore
 
 
-Name:
-Dinesh Reddy
+Degree:
+BSC
 
 
 College Name:
@@ -30,14 +36,9 @@ Email Address:
 indeed.com/r/Dinesh-Reddy/139711455c45e1ad
 
 
-Graduation Year:
-2012
+Name:
+Dinesh Reddy
 
 
-Degree:
-BSC
-
-
-Companies worked at:
-Cisco Bangalore
-cisco
+Designation:
+software engineer

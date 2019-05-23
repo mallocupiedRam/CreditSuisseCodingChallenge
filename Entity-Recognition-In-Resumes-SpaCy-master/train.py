@@ -159,6 +159,6 @@ def train_spacy():
         print("Precision : "+str(d[i][1]/d[i][5]))
         print("Recall : "+str(d[i][2]/d[i][5]))
         print("F-score : "+str(d[i][3]/d[i][5]))
-    nlp.to_disk("my_model")
+    nlp.to_disk("my_model1")
 train_spacy()
 

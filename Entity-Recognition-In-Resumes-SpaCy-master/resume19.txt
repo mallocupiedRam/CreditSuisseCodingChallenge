@@ -4,16 +4,13 @@ Skills:
 problem solving (Less than 1 year), project lifecycle (Less than 1 year), project manager (Lessthan 1 year), technical assistance. (Less than 1 year)
 
 
-Designation:
-Software Engineer
-
-
 Location:
+hyderbad
 Hyderabad
 
 
-Name:
-Dushyant Bhatt
+Companies worked at:
+Microsoft
 
 
 College Name:
@@ -24,5 +21,9 @@ Email Address:
 indeed.com/r/Dushyant-Bhatt/140749dace5dc26f
 
 
-Companies worked at:
-Microsoft
+Name:
+Dushyant Bhatt
+
+
+Designation:
+Software Engineer

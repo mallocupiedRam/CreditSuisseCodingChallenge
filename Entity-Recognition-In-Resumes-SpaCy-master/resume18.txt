@@ -1,41 +1,44 @@
 
 
+Graduation Year:
+2014
+2009
+2017
+2011
+
+
 Skills:
-• Operating Systems: Windows-7, 10• Language: Java• Database: SQL Server• Other Technologies: HTML, CSS, Microsoft Office (Word, Excel, PowerPoint, Access)
 ACCESS (Less than 1 year), BUYING (Less than 1 year), BUYING/PROCUREMENT (Less than 1year), CSS (Less than 1 year), DATABASE (Less than 1 year)
 
 
-Designation:
-Co-coordinator
-Co-coordinator of
-
-
 Location:
+Delhi
 Pune
-Chandigarh
 
 
-Name:
-Dipesh Gulati
+Companies worked at:
+ORACLE SQL
+
+
+Degree:
+MCA
+BCA
+CBSE
 
 
 College Name:
 Bharati Vidyapeeth University
 Punjab Technical University
+Crescent Public School
 
 
 Email Address:
 indeed.com/r/Dipesh-Gulati/17a483e9e19f9106
 
 
-Graduation Year:
-2014
+Name:
+Dipesh Gulati
 
 
-Degree:
-BCA
-MCA
-
-
-Companies worked at:
-ORACLE SQL
+Designation:
+Co-coordinator of CODE

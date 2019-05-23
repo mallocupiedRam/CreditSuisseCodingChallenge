@@ -1,25 +1,30 @@
 
 
+Graduation Year:
+2012
+
+
 Skills:
-❖ Operating Environment: […] Windows95/98/XP/NT❖ Database Tool: SQL Management Studio (MSSQL), BusinessDevelopment Studio, Visual studio 2005❖ Database Language: SQL, PL/SQL❖ Ticket Tracking Tool: Service Now❖ Reporting Tools: MS Reporting Services, SAS❖ Languages: C, C++, PL/SQL
 Database (3 years), SQL (3 years), Sql Dba
-
-
-Designation:
-Operational Analyst (SQL DBA) Engineer
-DBA Support Analyst
-
-
-Location:
-Bengaluru
+Languages: C, C++, PL/SQL
 
 
 Years of Experience:
 3.5 Years
 
 
-Name:
-Alok Khandai
+Location:
+Bengaluru
+
+
+Companies worked at:
+HCL Technologies
+Microsoft Corporation
+UNISYS
+
+
+Degree:
+B.Tech in Computer Science and Engineering in CSE
 
 
 College Name:
@@ -30,9 +35,11 @@ Email Address:
 indeed.com/r/Alok-Khandai/5be849e443b8f467
 
 
-Graduation Year:
-2012
+Name:
+Alok Khandai
 
 
-Degree:
-B.Tech in Computer Science and Engineering in CSE
+Designation:
+Operational Analyst (SQL DBA
+DBA Analyst
+DBA Support Analyst

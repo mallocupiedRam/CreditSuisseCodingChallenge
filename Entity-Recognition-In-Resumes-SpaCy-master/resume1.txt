@@ -1,34 +1,39 @@
 
 
+Graduation Year:
+2016
+
+
 Skills:
-Database (Less than 1 year), HTML (Less than 1 year), Linux. (Less than 1 year), MICROSOFTACCESS (Less than 1 year), MICROSOFT WINDOWS (Less than 1 year)
-• Programming Languages: C, C++, Java, .net, php.• Web Designing: HTML, XML• Operating Systems: Windows […] Windows Server 2003, Linux.• Database: MS Access, MS SQL Server 2008, Oracle 10g, MySql.
-
-
-Designation:
-Active member
+Database (Less than 1 year), HTML (Less than 1 year), Linux. (Less than 1 year),
 
 
 Location:
 Sangli
 
 
-Name:
-Afreen Jamadar
+Companies worked at:
+Cisco Networking
+IIIT
+
+
+Degree:
+Bachelor of Engg in Information Technology
 
 
 College Name:
 PG-DAC
-Shivaji University Kolhapur
+Shivaji University
+CDAC ACTS
 
 
 Email Address:
 indeed.com/r/Afreen-Jamadar/8baf379b705e37c6
 
 
-Graduation Year:
-2016
+Name:
+Afreen Jamadar
 
 
-Degree:
-Bachelor of Engg in Information Technology
+Designation:
+Active member
