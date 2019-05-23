@@ -20,9 +20,6 @@ sum that gauges the match between candidate and position should be considered
 Design Details:
 
 
-Data Exploration
-
-
 Data Preparation
 
 All resumé and job listing data were originally in doc or docx form.  We converted the resumés to strings so that they could then be cleaned up and labelled in a way that is better suited for SpaCy, which is what we used for the NER training.  To do this, we first converted the resumés into txt files, and then from these corresponding text files one by one appended each characer to an empty string.  AFter running these prepared files through our model, we organized the resulting information as a dictionary containing string lists as values for string keys, representing labels and items in the resume corresponding to that label,  Next, these strings were further parsed in train.py and put into appropriate format to run the algorithm.  Similarly, we converted the job descriptions from txt files into strings, but we left the strings as they were and instead used SpaCy to isolate all the nouns in the string.  The final representation of the data before applying our heuristics to determine best candidacy and top picks was the resumés as dictionaries and the job listings as string lists of words in the job description.
