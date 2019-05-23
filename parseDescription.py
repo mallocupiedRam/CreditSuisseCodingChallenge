@@ -26,6 +26,7 @@ import ssl
 # 
 # nltk.download( )
 
+#test dictionaries
 dict1 = {'Name': ['Dorthy Urda'], 'Years of Experience': ['9 Years'], 'Location': ['Pune'], 'Companies worked at': ['dd', 'dd', 'FI', 'Linux', 'Control'], 'Designation': ['Senior Associate', 'Configuration Manager', 'Configuration Manager', 'Developer, Team Lead', 'Developer, Team Lead', 'FileNet Administrator', 'SAKS Panagon Access'], 'Skills': ['Database', 'Shell script, Perl, SQL  PL/SQL', 'Release and Change Management, ITAO', 'SVN', 'CVS'], 'Degree': ['Bachelor of Engineering (Electronics and Telecommunication), from University of Pune', 'Developer', 'Developer', 'Developer', 'Developer'], 'Graduation Year': ['2.6.32'], 'College Name': ['Version-One', 'UNIX Shell Scripting']}
 
 dict2 = {'Name': ['Beverly Jenkins'], 'Designation': ['Cognizant Technology Solutions', 'Cognizant Technology Solution'], 'Location': ['Pune', 'Syslog'], 'Skills': ['Skill Set\n\n: MS SQL, Windows Server, IIS, UNIX.\n\nTools\n\n: Splunk Enterprise, NIMSOFT, Geneos, CA AUTOSYS, Idash, SOAP UI, Service NOW, IBM WAS console, Aqua Data, Sql Management Studio'], 'Graduation Year': ['2992960316'], 'Degree': ['A N College'], 'College Name': ['Magadh University']}
@@ -41,6 +42,7 @@ from nltk.corpus import wordnet as wn
 from fuzzywuzzy import fuzz
 
 # Assumes that job descriptions are all in .doc/.docx format
+#returns a string containing the text from filename
 def parseJob(filename):
     final = ''
     
@@ -49,18 +51,21 @@ def parseJob(filename):
 
     if (extension == "docx" or extension == "doc"):
         text = docx2txt.process(filename)
+        #ensures all characters are ascii
         for char in text:
             if (32 <= ord(char) <= 126 or ord(char) == 10):
                 final += char
     return final
-    
+
+#runs a string file through a generic NLP model to get the important nouns
 def getNouns(raw_parsed_result):
     nlp = spacy.load("en_core_web_sm")
     doc = nlp(raw_parsed_result)
     nouns = [chunk.text for chunk in doc.noun_chunks]
     return nouns
     
-
+#generates a score based on number of hits of skills in the parsed resume
+#in the important nouns of the job description
 def mapSkillstoJob(resume_dict, descrip_nouns):
     #error checking
     if ("Skills" not in resume_dict.keys()):
@@ -74,9 +79,10 @@ def mapSkillstoJob(resume_dict, descrip_nouns):
         for noun in descrip_nouns:
             indiv_skills = skill.split()
             if (skill in noun or noun in skill):
-                score += 10
+                score += 10 #adds score, scores evenly weighted
                 continue
             elif (fuzz.partial_ratio(skill, noun) >= 60):
+                #partial score if the match is relatively close
                 score += (fuzz.partial_ratio(skill, noun) // 10)
                 continue
             else: 
@@ -84,10 +90,11 @@ def mapSkillstoJob(resume_dict, descrip_nouns):
                     if (indiv_skill in noun or noun in indiv_skill):
                         score += 10
                     elif (fuzz.partial_ratio(indiv_skill, noun) >= 60):
+                        #same as above
                         score += (fuzz.partial_ratio(indiv_skill, noun) // 10)
     return score
                         
-
+#Computes total sum in an array
 def aggregate(A):
     sum = 0
     for i in range(len(A)):
@@ -96,9 +103,11 @@ def aggregate(A):
         else: sum+=A[i]
     return sum
 
+#does a fuzzy string compare 
 def fcompare(u,v):
     return fuzz.partial_ratio(u,v)
 
+#calculates the match score in the designation category in the resume
 def designationScore(resume_dict, descrip_nouns):
     #error checking
     if ("Designation" not in resume_dict.keys()):
@@ -109,7 +118,8 @@ def designationScore(resume_dict, descrip_nouns):
         return 0
     designationList = designation
     nounsList = descrip_nouns
-
+    
+    #sorts the designation list and noun list
     SDL = sorted(designationList)
     SNL = sorted(nounsList)
     A = [0, 0, 0, 0, 0, 0, 0, 0, 0]
@@ -131,8 +141,9 @@ def designationScore(resume_dict, descrip_nouns):
         sum = 0
     return max 
 
-
+#computes a score if prev job category parsed by resume is a big company
 def getPrevJobScore(resume_dict):
+    #subset of big companies that will give points
     bigCompanies = ['Apple', 'Google', 'Microsoft', 'Tencent', 'Facebook', 'Samsung',
                     'Intel', 'Taiwan Semiconductor Manufacturing', 'Cisco', 
                     'Oracle', 'IBM', 'NVIDIA', 'SAP', 'Adobe', 'Texas Instruments',
@@ -160,7 +171,10 @@ def getPrevJobScore(resume_dict):
             if (word in bigCompanies):
                 total = 10
         score += total
+    #receives points for each company worked for
     return score // 10
+
+#generates score based on matches in major in parsed resume to parsed job description
 
 def getMajorScore(resume_dict, descrip_nouns):
     if ("Degree" not in resume_dict.keys()):
@@ -176,6 +190,7 @@ def getMajorScore(resume_dict, descrip_nouns):
             if (deg in noun or noun in deg):
                 score += 10
             elif (fuzz.partial_ratio(deg, noun) >= 60):
+                #partial score for a fuzzy string equal
                 score += (fuzz.partial_ratio(deg, noun) // 10)
             else: 
                 for d in deg_part:
@@ -185,6 +200,8 @@ def getMajorScore(resume_dict, descrip_nouns):
                         score += (fuzz.partial_ratio(d, noun) // 10)
     return score
 
+#sums the total score for each labels in the parsed resume to get an aggregate score
+#of match based on the resume and the job
 def getAggregateScore(resume_dict, filename):
     descrip_string = parseJob(filename)
     descrip_nouns = getNouns(descrip_string)
@@ -196,6 +213,8 @@ def getAggregateScore(resume_dict, filename):
              )
     return score
 
+#runs through all the job descriptions for a specific resume, and returns the 
+#3 jobs that have the highest match value
 def getTopJobs(resume_dict):
     maxScore = [0, 0, 0]
     matchFile = ["", "", ""]
@@ -217,36 +236,4 @@ def getTopJobs(resume_dict):
                     
     return matchFile
 
-text = "This role is within the Cognitive and Digital Services (CDS) organization which offers an end-to-end service in the development and implementation of Amelia (AI cognitive agent), Contact Center Modernization, data science, machine learning and advanced analytics to the firm. This role reports directly to the Head of the Cognitive and Digital Services organization while also aligning to the organizations Strategy and Architecture discipline for technology continuity. You will be a key individual within our Strategy and Architecture team that has responsibility for the technology strategy, roadmap, feature set, along with the service pricing and TCO.  The role will entail: • Support the Service by developing the strategy and architecture for the service technology and aligned capabilities. • Actively engage with Credit Suisse Customers in partnership with Customer Relationship Management to ensure Strategy and Architecture closely align with the customer needs. • Create the Service roadmap, reference architecture, book of work, blueprints & technology standards. • Actively lead book of work delivery to ensure successful execution. • Influence and ensure alignment with overall GCTO strategy and reference architecture. • Influence and ensure alignment with the strategies and architectures of related Service and Capabilities. • Handle Service TCO and Pricing.  Credit Suisse maintains a Working Flexibility Policy, subject to the terms as set forth in the Credit Suisse United States Employment Handbook.  Qualifications:  Are you looking forward to work in a fast-paced exciting environment on the leading edge of IT technology and Artificial Intelligence in the financial industry? We can train on the specific technologies, but you should have the following:  Required: • You have at least 7-10 years working in Information Technology, Computer Science, or related fields. • You understand technology and has (or can have a) pulse on industry trends and how they impact Enterprise. • You recognizes the nature and scope of present and future product lines by reviewing product specifications and requirements; appraising new product ideas and/or product or packaging changes. • You have the ability to handle changing priorities, deal with ambiguity and use good judgment in stressful situations. • You experienced handling employees and developing customer relationships across multiple business units. • You have experience in lean, Agile, six-sigma, process improvement. • You have excellent business and financial acumen with past experience in strategic planning, financial planning and analysis, and budgeting. • Excellent analytical skills and effective problem solving.  You should also possess the following industry experience or knowledge: • You have past experience as a Product manager. • You are familiar with JIRA - a plus. • You have AI and Machine Learning experience. • You have track record working within diverse and successful development or design teams.  For more information visit Technology Careers"
-
-
-# nlp = spacy.load("en_core_web_sm")
-# 
-# synonyms = []
-# doc = nlp(text)
-# Nouns = [chunk.text for chunk in doc.noun_chunks]
-# print(Nouns)
-# first = Nouns[2]
-# #print(first)
-# synonyms = [] 
-# antonyms = [] 
-# 
-# 
-# for syn in wn.synsets(first): 
-#     for l in syn.lemmas(): 
-#         synonyms.append(l.name()) 
-#         if l.antonyms(): 
-#             antonyms.append(l.antonyms()[0].name()) 
-#   
-# #print(synonyms) 
-# #print (fuzz.partial_ratio("plant", "Lead automation engineer"))
-# 
-# ''' 
-#     Algorithm for determining job fit:
-#     key word in resume in one of the nouns from job description
-#     fuzzy compare returns confidence interval higher than 70
-#     designation matches job title
-#     worked at fortune 500 companies
-#     
-# '''
      
