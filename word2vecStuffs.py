@@ -80,5 +80,5 @@ def output_best(path_to_resumes, path_to_listing):
     print(path_to_listing,":",[resumes[x[0]][0] for x in sim_enum[:3]])
 
 
-output_best("Resumes/","Listings/Automation")
-train_model("All_files/","test.model")
+output_best("Resumes/text","Listings/text/Automation")
+train_model("All_files/text","test.model")
